@@ -1,0 +1,130 @@
+:title: Cybersecurity and Digital Forensics
+:author: Rik Goldman
+
+===========================================
+Cybersecurity and Digital Forensics Program
+===========================================
+
+Description
+===========
+
+The *Cybersecurity and Digital Forensics* course is a component of a two-week summer program at Chelsea School in Hyattsville, Maryland, for middle and secondary-school students who are interested in the growing field of cybersecurity[1]_. 
+
+This ten-day experience provides hands-on activities focused on computing and cybersecurity topics. Attendees will learn and apply basic concepts of programming, computer forensics, cryptography, steganography, system vulnerabilities and program management from a series of gaming and simulation activities and hands-on exercises.
+
+.. [1] In the context of this course, cybersecurity, infosec, security, network security, and information security are used interchangeably. Note too that the scope of study is limited to PC-based Microsoft and Linux-linux based systems. We do not attempt to cram mobile forensics or Macintosh server security into the program.
+Goal
+====
+
+Learning Outcomes
+=================
+
+Hours
+===========
+
+Additional Notes
+================
+
+Tentative Topics
+==================
+
+* Cybersafety
+    * Password best practices
+    * Personal disclosure
+    * cyberbullying
+    * Getting help or support
+    * Reporting abuse
+    * Generating strong passwords or passphrases
+    * Password Management
+* Network fundamentals, protocols, handshakes
+* Ethical Hacking, cyberethics, code of conduct
+* Infosec Defined
+* Pentration Testing - Scope, Authorization, summative reporting of findings/recommendations
+* Cyberlaw
+* Chain of Custody
+* Forensics Toolkits, forensic reporting/case management
+* Filesystem navigation and management
+* Threats and Mitigation
+    * Phishing
+    * Malware
+    * Web security - session attacks, cross site scripting, SQL Injection
+    * Exploits, Zero-day exploits
+    * Brute Force and Dictionary attacks
+    * Privilege Escalation
+    * traffic sniffing (eavesdropping on network communications for sensitive information)
+    * social engineering
+    * Passive and Active scanning
+* Server Hardening
+* Maintaining systems: patches, updates, security announcements, log management, AV databases
+* Intrusion Detection Systems
+* Log Management
+* Threats and motivations
+* encryption
+
+
+Primary Resources
+==================
+
+This session is grounded in significant research in contemporary theory, methods, and best practice as well as professional, ethical, legal conduct. 
+
+While material is drawn from myriad resources, seminal resources help inform the structure of this class:
+
+1. *Basic Penetration Testing* (Syngress)
+
+2. *Computer Security Literacy* (CRC Press)
+
+3. *Basic Forensics* (Syngress)
+
+4. *Kali Linux CTF Blueprints* (Packt Pub.)
+
+Technologies
+=================
+
+* Microsoft Windows 7
+* Linux
+* Apache (web server)
+* MySQL (database)
+* PHP (server-side scripting language)
+* Metasploit
+* Backbox Linux
+* Kali Linux
+* Virtualization
+* Hardware firewalls
+* Routers
+* TCP/IP (syn, awk / )
+* SSL
+* NMAP
+* Nessus
+* Mozilla Firefox security extensions
+* Google Chrome security extensions
+* plain text code editors (vim, gedit, emacs, notepad++)
+* high level interpreted scripting languages (Python, Perl, shell scripting)
+* ZendStudio
+* Jira and Jira Agile (Atlassian)
+* Git and Github
+* metasploitable
+* WPA, WEP, WPA2, WPS wireless technologies
+
+Post-Secondary Paths
+====================
+
+Relevant Certifications
+-----------------------
+
+* Security+
+* Network+
+* Linux+
+* Certified Ethical Hacker (CEH)
+* Certified Pentration Tester (CPT)
+* Certified ScrumMaster (CSM)
+
+Representative Undergrad Academic Programs
+-------------------------------------------
+
+* Software Studies (UMBC)
+* Network Security (Fairmont State University)
+* Software Engineering (WVU)
+* Digital Humanties (GMU)
+
+
+.. index:: infosec, certification, post-secondary pathways, careers, certified ethical hacker, Security+, CompTIA, GNU/Linux, Linux, Ubuntu, Debian, penetration testing, capture the flag, red teaming, LPI, Network+, information security, digital forensics, forensics, git, source code management, collaboration, Agile, scrum, ScrumMaster, Jira, Atlassian, Github, Kali Linux, Backbox Linux, Microsoft, Windows 7, malware, Github
