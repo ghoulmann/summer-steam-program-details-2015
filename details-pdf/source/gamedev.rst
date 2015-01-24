@@ -158,7 +158,7 @@ More Complex Games
 
 * Crafting Games
 
-* 3d Shooter
+* 3D Shooter
 		
 
 Building Your Own Game
@@ -190,3 +190,25 @@ Compiling Your Build
 * Compiling For PC
 
 * Testing (Eclipse, Google Dev Kit, Android SDK) 
+
+Technologies
+============
+
+* Blender 3d modeling software (http://www.blender.org/)
+* Unity (http://unity3d.com/)
+* MonoDevelop (http://www.monodevelop.com/)
+* Notepad++ (http://notepad-plus-plus.org/)
+* GIMP (http://www.gimp.org/)
+* Windows 7
+* Google Developer Tools
+* Android SDK (http://developer.android.com/sdk/index.html)
+
+Resources Referenced
+=====================
+
+* http://www.digitaltutors.com/tutorial/1764-Creating-an-Endless-Runner-Game-for-Mobile-in-Unity
+* http://unity3d.com/learn/tutorials/projects/space-shooter
+* http://www.informit.com/articles/article.aspx?p=2162089
+* http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Mesh_Modeling
+
+.. index:: Android, Google, Microsoft Windows, Blender, Unity Game Engine, Notepad++, Eclipse, GIMP, SDK, C#, JavaScript, Games, Loops, Narrative, Mesh, collaboration, game history, game development, interactive narrative
