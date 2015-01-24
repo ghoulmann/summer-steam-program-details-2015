@@ -42,6 +42,9 @@ What is the daily schedule?
 What resources do participants need?
 ====================================
 
+What resources are provided by the camp staff?
+===============================================
+
 What additional resources are encouraged for participants?
 ===========================================================
 

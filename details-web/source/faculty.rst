@@ -1,6 +1,6 @@
-==========================
-Camp Faculty
-==========================
+==================================
+Program Staff [draft in progress]
+==================================
 
 Rik Goldman
 ===========
@@ -11,36 +11,27 @@ Sessions
 * Programming Fundamentals
 * Infosec and Forensics
 
-Vita
-----
-
-Learn More
-----------
-
 Sabre Goldman
 =============
 
-Course
-------
+Session
+--------
 
 * Arts and Technology
 
-Vita
-----
 
 David Vest
 ==========
 
-Courses
--------
+Sessions
+---------
 
 * Programming Fundamentals
 * Game Design and Development
 
-Vita
-----
+
 
 Learn More
 ----------
 
-.. index:: faculty, staff, camp counselors
+.. index:: faculty, staff, administration

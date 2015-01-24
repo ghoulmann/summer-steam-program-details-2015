@@ -15,31 +15,28 @@
 \contentsline {subsection}{\numberline {1.7.3}Cybersecurity \& Digital Forensics}{3}{subsection.1.7.3}
 \contentsline {subsection}{\numberline {1.7.4}Arts \& Technology}{3}{subsection.1.7.4}
 \contentsline {section}{\numberline {1.8}Daily Schedule}{3}{section.1.8}
-\contentsline {section}{\numberline {1.9}Notes}{3}{section.1.9}
 \contentsline {chapter}{\numberline {2}Philosophy}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Chelsea School}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Mission}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Vision}{5}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Values}{5}{subsection.2.1.3}
 \contentsline {section}{\numberline {2.2}STEAM Camp}{5}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Values}{5}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Rational}{5}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}Rational}{6}{subsection.2.2.2}
 \contentsline {subsection}{\numberline {2.2.3}Critical Considerations}{6}{subsection.2.2.3}
-\contentsline {chapter}{\numberline {3}Programming Fundamentals...Program}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Time}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Summary}{7}{section.3.2}
-\contentsline {section}{\numberline {3.3}Goal}{7}{section.3.3}
-\contentsline {section}{\numberline {3.4}Learning Outcomes}{7}{section.3.4}
-\contentsline {section}{\numberline {3.5}Schedule}{7}{section.3.5}
-\contentsline {chapter}{\numberline {4}Arts and Technology}{9}{chapter.4}
-\contentsline {section}{\numberline {4.1}Time}{9}{section.4.1}
-\contentsline {section}{\numberline {4.2}Summary}{9}{section.4.2}
-\contentsline {section}{\numberline {4.3}Goal}{9}{section.4.3}
-\contentsline {section}{\numberline {4.4}Learning Outcomes}{9}{section.4.4}
-\contentsline {section}{\numberline {4.5}Schedule}{9}{section.4.5}
+\contentsline {chapter}{\numberline {3}Programming Fundamentals...Program \emph {under development}}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Summary}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Learning Objectives}{7}{section.3.2}
+\contentsline {chapter}{\numberline {4}Technology and the Arts {[}\emph {developing draft}{]}}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Summary}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}Prospective Activities \& Topics}{9}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Prospective Guided \& Independent Reading}{9}{subsection.4.2.1}
 \contentsline {chapter}{\numberline {5}Cybersecurity and Digital Forensics Program}{11}{chapter.5}
 \contentsline {section}{\numberline {5.1}Description}{11}{section.5.1}
 \contentsline {section}{\numberline {5.2}Goal}{11}{section.5.2}
 \contentsline {section}{\numberline {5.3}Learning Outcomes}{11}{section.5.3}
 \contentsline {section}{\numberline {5.4}Hours}{11}{section.5.4}
-\contentsline {section}{\numberline {5.5}Topics \FN@sf@gobble@opt { A realistic plan is in place to address these topics to an appropriate degree, with time left for red-teaming and hands-on learning. As we get a snapshot of enrollment, the emphases with shift, and the delivery of content will be adjusted to meet the individual needs of participants. }}{11}{section.5.5}
+\contentsline {section}{\numberline {5.5}Prospective Scope and Sequence \FN@sf@gobble@opt { A realistic plan is in place to address these topics to an appropriate degree, with time left for red-teaming and hands-on learning. As we get a snapshot of enrollment, the emphases with shift, and the delivery of content will be adjusted to meet the individual needs of participants. }}{11}{section.5.5}
 \contentsline {subsection}{\numberline {5.5.1}Cyberthreats and Motivations}{11}{subsection.5.5.1}
 \contentsline {subsection}{\numberline {5.5.2}Cybersafety}{12}{subsection.5.5.2}
 \contentsline {subsection}{\numberline {5.5.3}Cyberethics}{12}{subsection.5.5.3}
@@ -56,36 +53,45 @@
 \contentsline {subsection}{\numberline {5.8.1}Relevant Certification Paths}{15}{subsection.5.8.1}
 \contentsline {subsection}{\numberline {5.8.2}Representative Undergrad Academic Programs}{15}{subsection.5.8.2}
 \contentsline {section}{\numberline {5.9}Representative Vocabulary}{15}{section.5.9}
-\contentsline {section}{\numberline {5.10}Notes}{16}{section.5.10}
-\contentsline {chapter}{\numberline {6}Game Design and Development Program}{17}{chapter.6}
-\contentsline {chapter}{\numberline {7}Camp Faculty}{19}{chapter.7}
-\contentsline {section}{\numberline {7.1}Rik Goldman}{19}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}Sessions}{19}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Vita}{19}{subsection.7.1.2}
-\contentsline {subsection}{\numberline {7.1.3}Learn More}{19}{subsection.7.1.3}
-\contentsline {section}{\numberline {7.2}Sabre Goldman}{19}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Course}{19}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Vita}{19}{subsection.7.2.2}
-\contentsline {section}{\numberline {7.3}David Vest}{19}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Courses}{19}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Vita}{19}{subsection.7.3.2}
-\contentsline {subsection}{\numberline {7.3.3}Learn More}{19}{subsection.7.3.3}
-\contentsline {chapter}{\numberline {8}Frequently Asked Questions}{21}{chapter.8}
-\contentsline {section}{\numberline {8.1}What is Chelsea School?}{21}{section.8.1}
-\contentsline {section}{\numberline {8.2}What is STEM Education? What then is STEAM education?}{21}{section.8.2}
-\contentsline {section}{\numberline {8.3}What is the location of the summer camp?}{22}{section.8.3}
-\contentsline {section}{\numberline {8.4}What are the camp hours?}{22}{section.8.4}
-\contentsline {section}{\numberline {8.5}What is the break and lunch plan?}{22}{section.8.5}
-\contentsline {section}{\numberline {8.6}How can a parent best support a participant?}{22}{section.8.6}
-\contentsline {section}{\numberline {8.7}What is the daily schedule?}{22}{section.8.7}
-\contentsline {section}{\numberline {8.8}What resources do participants need?}{22}{section.8.8}
-\contentsline {section}{\numberline {8.9}What additional resources are encouraged for participants?}{22}{section.8.9}
-\contentsline {section}{\numberline {8.10}Is homework assigned?}{22}{section.8.10}
-\contentsline {section}{\numberline {8.11}How can a participant prepare before camp starts?}{22}{section.8.11}
-\contentsline {section}{\numberline {8.12}Are there prerequisites for prospective participants?}{22}{section.8.12}
-\contentsline {section}{\numberline {8.13}Notes}{22}{section.8.13}
-\contentsline {chapter}{\numberline {9}Registration}{23}{chapter.9}
-\contentsline {section}{\numberline {9.1}Registration Options}{23}{section.9.1}
-\contentsline {section}{\numberline {9.2}Open Registration}{23}{section.9.2}
-\contentsline {section}{\numberline {9.3}Registration How-To}{23}{section.9.3}
-\contentsline {chapter}{Index}{25}{section*.3}
+\contentsline {chapter}{\numberline {6}Game Design and App Development Program}{17}{chapter.6}
+\contentsline {section}{\numberline {6.1}Description}{17}{section.6.1}
+\contentsline {section}{\numberline {6.2}Goal}{17}{section.6.2}
+\contentsline {section}{\numberline {6.3}Learning Outcomes}{17}{section.6.3}
+\contentsline {section}{\numberline {6.4}Prospective Topics}{17}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Introduction to Gaming}{17}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Asset Modeling and Production}{18}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Game Design}{18}{subsection.6.4.3}
+\contentsline {subsubsection}{Assembling Tools}{18}{subsubsection*.3}
+\contentsline {subsubsection}{Setting the Scene}{18}{subsubsection*.4}
+\contentsline {subsubsection}{Game Physics/Interaction}{18}{subsubsection*.5}
+\contentsline {subsubsection}{Building Different Game Types}{19}{subsubsection*.6}
+\contentsline {subsection}{\numberline {6.4.4}Building Your Own Game}{19}{subsection.6.4.4}
+\contentsline {subsection}{\numberline {6.4.5}Compiling Your Build}{20}{subsection.6.4.5}
+\contentsline {chapter}{\numberline {7}Program Staff {[}draft in progress{]}}{21}{chapter.7}
+\contentsline {section}{\numberline {7.1}Rik Goldman}{21}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Sessions}{21}{subsection.7.1.1}
+\contentsline {section}{\numberline {7.2}Sabre Goldman}{21}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Session}{21}{subsection.7.2.1}
+\contentsline {section}{\numberline {7.3}David Vest}{21}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Sessions}{21}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Learn More}{21}{subsection.7.3.2}
+\contentsline {chapter}{\numberline {8}Frequently Asked Questions}{23}{chapter.8}
+\contentsline {section}{\numberline {8.1}What is Chelsea School?}{23}{section.8.1}
+\contentsline {section}{\numberline {8.2}What is STEM Education? What then is STEAM education?}{23}{section.8.2}
+\contentsline {section}{\numberline {8.3}What is the location of the summer camp?}{24}{section.8.3}
+\contentsline {section}{\numberline {8.4}What are the camp hours?}{24}{section.8.4}
+\contentsline {section}{\numberline {8.5}What is the break and lunch plan?}{24}{section.8.5}
+\contentsline {section}{\numberline {8.6}How can a parent best support a participant?}{24}{section.8.6}
+\contentsline {section}{\numberline {8.7}What is the daily schedule?}{24}{section.8.7}
+\contentsline {section}{\numberline {8.8}What resources do participants need?}{24}{section.8.8}
+\contentsline {section}{\numberline {8.9}What resources are provided by the camp staff?}{24}{section.8.9}
+\contentsline {section}{\numberline {8.10}What additional resources are encouraged for participants?}{24}{section.8.10}
+\contentsline {section}{\numberline {8.11}Is homework assigned?}{24}{section.8.11}
+\contentsline {section}{\numberline {8.12}How can a participant prepare before camp starts?}{24}{section.8.12}
+\contentsline {section}{\numberline {8.13}Are there prerequisites for prospective participants?}{24}{section.8.13}
+\contentsline {section}{\numberline {8.14}Notes}{24}{section.8.14}
+\contentsline {chapter}{\numberline {9}Registration}{25}{chapter.9}
+\contentsline {section}{\numberline {9.1}Registration Options}{25}{section.9.1}
+\contentsline {section}{\numberline {9.2}Open Registration}{25}{section.9.2}
+\contentsline {section}{\numberline {9.3}Registration How-To}{25}{section.9.3}
+\contentsline {chapter}{Index}{27}{section*.7}

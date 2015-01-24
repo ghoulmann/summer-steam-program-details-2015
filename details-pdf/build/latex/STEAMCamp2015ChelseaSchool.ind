@@ -2,7 +2,9 @@
 \def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
 
   \bigletter A
+  \item administration, \hyperpage{21}
   \item Agile, \hyperpage{16}
+  \item array, \hyperpage{7}
   \item Atlassian, \hyperpage{16}
 
   \indexspace
@@ -10,15 +12,15 @@
   \item Backbox Linux, \hyperpage{16}
   \item bash, \hyperpage{7}
   \item best practice, \hyperpage{7}
-  \item break, \hyperpage{22}
+  \item break, \hyperpage{24}
 
   \indexspace
   \bigletter C
-  \item camp counselors, \hyperpage{19}
   \item capture the flag, \hyperpage{16}
   \item careers, \hyperpage{16}
   \item certification, \hyperpage{16}
   \item certified ethical hacker, \hyperpage{16}
+  \item cli, \hyperpage{7}
   \item coding, \hyperpage{7}
   \item collaboration, \hyperpage{16}
   \item commenting, \hyperpage{7}
@@ -34,13 +36,12 @@
 
   \indexspace
   \bigletter D
-  \item daily schedule, \hyperpage{3}
   \item Debian, \hyperpage{16}
   \item digital forensics, \hyperpage{16}
 
   \indexspace
   \bigletter F
-  \item faculty, \hyperpage{19}
+  \item faculty, \hyperpage{21}
   \item filesystem navigation, \hyperpage{7}
   \item filesytem management, \hyperpage{7}
   \item flow control, \hyperpage{7}
@@ -53,20 +54,21 @@
   \item git, \hyperpage{7}, \hyperpage{16}
   \item Github, \hyperpage{16}
   \item GNU/Linux, \hyperpage{16}
+  \item goals, \hyperpage{3}
 
   \indexspace
   \bigletter H
-  \item homework, \hyperpage{22}
-  \item hybrid learning, \hyperpage{22}
+  \item homework, \hyperpage{24}
+  \item hybrid learning, \hyperpage{24}
 
   \indexspace
   \bigletter I
   \item if/then, \hyperpage{7}
-  \item independent practice, \hyperpage{22}
+  \item independent practice, \hyperpage{24}
   \item information security, \hyperpage{16}
   \item infosec, \hyperpage{16}
   \item interpreted languages, \hyperpage{7}
-  \item itinerary, \hyperpage{22}
+  \item itinerary, \hyperpage{24}
 
   \indexspace
   \bigletter J
@@ -79,13 +81,13 @@
 
   \indexspace
   \bigletter L
-  \item learning management system, \hyperpage{22}
+  \item learning management system, \hyperpage{24}
   \item Linux, \hyperpage{7}, \hyperpage{16}
-  \item LMS, \hyperpage{22}
-  \item location, \hyperpage{22}
+  \item LMS, \hyperpage{24}
+  \item location, \hyperpage{24}
   \item loop, \hyperpage{7}
   \item LPI, \hyperpage{16}
-  \item lunch, \hyperpage{22}
+  \item lunch, \hyperpage{24}
 
   \indexspace
   \bigletter M
@@ -93,8 +95,8 @@
   \item Microsoft, \hyperpage{16}
   \item Microsoft Windows 7, \hyperpage{7}
   \item MIT, \hyperpage{7}
-  \item Moodle, \hyperpage{22}
-  \item MSDE, \hyperpage{22}
+  \item Moodle, \hyperpage{24}
+  \item MSDE, \hyperpage{24}
 
   \indexspace
   \bigletter N
@@ -104,7 +106,7 @@
   \bigletter P
   \item penetration testing, \hyperpage{16}
   \item post-secondary pathways, \hyperpage{16}
-  \item prerequisites, \hyperpage{22}
+  \item prerequisites, \hyperpage{24}
   \item programming, \hyperpage{7}
   \item programs, \hyperpage{3}
   \item Python, \hyperpage{7}
@@ -112,6 +114,7 @@
   \indexspace
   \bigletter R
   \item red teaming, \hyperpage{16}
+  \item routine, \hyperpage{3}
   \item Ruby, \hyperpage{7}
 
   \indexspace
@@ -126,12 +129,11 @@
   \item shell scripting, \hyperpage{7}
   \item source code management, \hyperpage{7}, \hyperpage{16}
   \item sprite, \hyperpage{7}
-  \item staff, \hyperpage{19}
+  \item staff, \hyperpage{21}
   \item STEAM Education, \hyperpage{3}
-  \item STEAM education, \hyperpage{22}
-  \item Stem Camp goals, \hyperpage{3}
+  \item STEAM education, \hyperpage{24}
   \item STEM Education, \hyperpage{3}
-  \item STEM education, \hyperpage{22}
+  \item STEM education, \hyperpage{24}
   \item summary, \hyperpage{3}
   \item system administration, \hyperpage{7}
 
