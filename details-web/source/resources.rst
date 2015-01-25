@@ -6,9 +6,11 @@ What follows is a partial list of recommended texts for reading and viewing for 
 
 --------------------------------
 
- Dick, Philip K. Do Androids Dream of Electric Sheep? New York: Ballantine, 1996. Print.
+Dick, Philip K. Do Androids Dream of Electric Sheep? New York: Ballantine, 1996. Print.
 
 Blade Runner:. Warner Bros. Home Videos, 1999. Film.
+
+Essinger, James. *A Female Genius: How Ada Lovelace Started the Computer Age.* Print.
 
 Gibson, William, and Bruce Sterling. The Difference Engine. New York: Bantam, 1991. Print.
 
@@ -22,12 +24,9 @@ Munroe, Randall. Xkcd: Volume 0. Print.
 
 Rushkoff, Douglas. "Study Guide: Program or Be Programmed." Web. 25 Jan. 2015. <http://dtc-wsuv.org/hashnextchapter/wp-content/uploads/2013/03/Rushkoff-Study-Guide.pdf>.
 
-Sterling, Bruce. The Hacker Crackdown Law and Disorder on the Electronic Frontier. Champaign, Ill.: Project Gutenberg, 199. Print.
+Sterling, Bruce. *The Hacker Crackdown Law and Disorder on the Electronic Frontier.* Champaign, Ill.: Project Gutenberg, 199. Print.
 
-
-
-
-
+Sterling, Bruce. M*irrorshades: The Cyberpunk Anthology*. New York: Arbor House, 1986. Print.
 
 *The Digital Manifesto Archive*. Web. 24 Jan. 2015. <https://digitalmanifesto.omeka.net/>.
 
@@ -209,5 +208,9 @@ Walker, Matthew. *CEH, Certified Ethical Hacker: Exam Guide : All-in-one*. New Y
 Wark, McKenzie. *A Hacker Manifesto*. Cambridge, MA: Harvard UP, 2004. Print.
 
 Wark, McKenzie. *Gamer Theory*. Cambridge, Mass.: Harvard UP, 2007. Print.
+
+Wiener, Norbert. *Cybernetics: Control and Communication in the Animal and the Machine*. New York: Wiley, 1948. Print.
+
+Wiener, Norbert. *The Human Use of Human Beings: Cybernetics and Society*. 2nd ed. Garden City, New York: Doubleday, 1954. Print.
 
 Williams, Sam. *Free as in Freedom (2.0): Richard Stallman and the Free Software Revolution*. 2nd ed. Boston, MA: Free Software Foundation, 2010. Print.
