@@ -2,38 +2,9 @@
 Recommended Reading and Viewing
 ================================
 
-What follows is a partial list of recommended texts for reading and viewing for our STEAM Summer Program participants and instructors. This list includes relevant fiction and non-fiction, for viewing, reading, and e-reading. Note that many of the resources listed here, such as the *BBS* Documentary and Cory Doctorow and Richard M. Stallman are freely available on the Web.
+*What follows is a partial list of recommended texts for reading and viewing for our STEAM Summer Program participants and instructors. This list includes relevant fiction and non-fiction, for viewing, reading, and e-reading. Note that many of the resources listed here, such as the *BBS* Documentary and Cory Doctorow and Richard M. Stallman are freely available on the Web.*
 
---------------------------------
-
-Dick, Philip K. Do Androids Dream of Electric Sheep? New York: Ballantine, 1996. Print.
-
-Blade Runner:. Warner Bros. Home Videos, 1999. Film.
-
-Essinger, James. *A Female Genius: How Ada Lovelace Started the Computer Age.* Print.
-
-Gibson, William, and Bruce Sterling. The Difference Engine. New York: Bantam, 1991. Print.
-
-Haven, Tom, and William Gibson. William Gibson's Neuromancer, the Graphic Novel. New York: Epic Comics, 1989. Print.
-
-Haverbeke, Marijn. Eloquent Javascript a Modern Introduction to Programming. 2nd ed. San Francisco: No Starch, 2011. Print.
-
-Johnny Mnemonic. Tri-Star Pictures :, 2003. Film.
-
-Munroe, Randall. Xkcd: Volume 0. Print.
-
-Rushkoff, Douglas. "Study Guide: Program or Be Programmed." Web. 25 Jan. 2015. <http://dtc-wsuv.org/hashnextchapter/wp-content/uploads/2013/03/Rushkoff-Study-Guide.pdf>.
-
-Sterling, Bruce. *The Hacker Crackdown Law and Disorder on the Electronic Frontier.* Champaign, Ill.: Project Gutenberg, 199. Print.
-
-Sterling, Bruce. M*irrorshades: The Cyberpunk Anthology*. New York: Arbor House, 1986. Print.
-
-*The Digital Manifesto Archive*. Web. 24 Jan. 2015. <https://digitalmanifesto.omeka.net/>.
-
-A Cypherpunk's Manifesto. Web. 30 Dec. 2014. <http://www.activism.net/cypherpunk/manifesto.html>.
-
-Beyer, Kurt. *Grace Hopper and the Invention of the Information Age*.
-Cambridge, Mass.: MIT, 2009. Print.
+Beyer, Kurt. *Grace Hopper and the Invention of the Information Age*. Cambridge, Mass.: MIT, 2009. Print.
 
 Blake, Victoria. *Cyberpunk: Stories of Hardware, Software, Wetware,
 Evolution and Revolution*. Or.: Underland, 2013. Print.
@@ -41,7 +12,6 @@ Evolution and Revolution*. Or.: Underland, 2013. Print.
 Briggs, Jason. *Python for Kids: A Guide for Beginners*. San Francisco,
 Calif.: No Starch ;, 2012. Print.
 
-*War Games*. United Artists, 1983. Film.
 
 Bueno, Carlos. *Lauren Ipsum: A Story about Computer Science and Other
 Improbable Things*. S.l.: O'Reilly Media, 2014. Print.
@@ -60,7 +30,11 @@ Coleman, Gabriella. *Hacker Culture and Politics Syllabus*. Web. 24 Jan. 2015. <
 
 Coleman, Gabriella. *Hacker, Hoaxer, Whistleblower, Spy: The Story of Anonymous*. S.l.: Verso, 2014. Print.
 
+"A Cypherpunk's Manifesto". Web. 30 Dec. 2014. <http://www.activism.net/cypherpunk/manifesto.html>.
+
 Dick, Philip K. *Do Androids Dream of Electric Sheep?* New York: Ballantine, 1996. Print.
+
+*The Digital Manifesto Archive*. Web. 24 Jan. 2015. <https://digitalmanifesto.omeka.net/>.
  
 Doctorow, Cory, and Amanda Palmer. *Information Doesn't Want to Be Free: Laws for the Internet Age*. Print.
 
@@ -85,6 +59,8 @@ Doctorow, Cory. *Pirate Cinema*. New York: Tor Teen, 2012. Print.
 
 Engebretson, Pat. *The Basics of Hacking and Penetration Testing Ethical Hacking and Penetration Testing Made Easy*. 2nd ed. Amsterdam: Syngress,
 an Imprint of Elsevier, 2013. Print.
+
+Essinger, James. *A Female Genius: How Ada Lovelace Started the Computer Age.* Print.
 
 *Extreme Programming Pocket Guide*. Beijing: O'Reilly, 2003. Print.
 
@@ -138,6 +114,9 @@ Warwickshire, U. K.: In Easy Steps, 2013. Print.
 Minsky, Marvin Lee. *The Society of Mind*. New York: Simon and Schuster,
 1986. Print.
 
+*Johnny Mnemonic*. Tri-Star Pictures, 2003. Film.
+
+
 Moody, Glyn. *Rebel Code: The inside Story of Linux and the Open Source
 Revolution*. Cambridge, Mass.: Perseus Pub., 2001. Print.
 
@@ -186,7 +165,10 @@ New York: Bantam, 1995. Print.
 Stephenson, Neal. *In the Beginning ... Was the Command Line*. New York:
 Avon, 1999. Print.
 
-Sterling, Bruce. *The Hacker Crackdown Law and Disorder on the Electronic Frontier.* Champaign, Ill.: Project Gutenberg, 199. Print.
+Sterling, Bruce. *The Hacker Crackdown Law and Disorder on the Electronic Frontier.* Champaign, Ill.: Project Gutenberg. Print.
+
+Sterling, Bruce. *Mirrorshades: The Cyberpunk Anthology*. New York: Arbor House, 1986. Print.
+
 
 *Super Scratch Programming Adventure! Learn to Program by Making Cool Games!* San Francisco: No Starch, 2012. Print.
 
@@ -204,6 +186,8 @@ Thorn, Alan. *Unity 4 Fundamentals Get Started at Making Games with Unity*. Burl
 Turkle, Sherry. *Life on the Screen: Identity in the Age of the Internet*. New York: Simon & Schuster, 1995. Print.
 
 Walker, Matthew. *CEH, Certified Ethical Hacker: Exam Guide : All-in-one*. New York: McGraw-Hill, 2012. Print.
+
+*War Games*. United Artists, 1983. Film.
 
 Wark, McKenzie. *A Hacker Manifesto*. Cambridge, MA: Harvard UP, 2004. Print.
 
