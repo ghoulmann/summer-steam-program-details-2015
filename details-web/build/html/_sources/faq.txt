@@ -5,6 +5,16 @@ Frequently Asked Questions
 What is Chelsea School?
 =======================
 
+`Chelsea School <http://chelseaschool.edu>`_ is a non-profit, non-public school for students with learning differences. 
+
+Chelsea School is located in `Hyattsville, MD <http://chelseaschool.edu/about/directions>`_, and serves students from the DC Metro Area. 
+
+Chelsea `students <http://chelseaschool.edu/about/bios#students>`_ are middle school and high school students (grades 5-12) with language-based `learning differences <http://chelseaschool.edu/about/LD>`_ and ADHD.
+
+Chelsea `faculty and staff <http://chelseaschool.edu/about/bios>`_ includes dedicated teachers who are certified in special education and/or their specific content area. 
+
+The Chelsea School `curriculum <http://chelseaschool.edu/academics>`_ is designed to prepare students for the rigors of college-level courses and includes small group instruction, strategic remediation, and access to speech-language therapy, occupational therapy and counseling. (Adapted from "`About Chelsea School <http://chelseaschool.edu/about>`_".)
+
 What is STEM Education? What then is STEAM education?
 =====================================================
 
@@ -17,48 +27,68 @@ However, we feel strongly that
 1. Computing is a core literacy
 2. The ability to read, interpret, and critique cultural productions is a necessary condition of digital literacy and computing.
 
-Therefore, we have worked toward adopting the acronym *STEAM* and the phrases *STEAM Education* and *STEAM Camp*.
-
-
-
+Therefore, we have worked toward adopting the acronym *STEAM* and the phrases *STEAM Education* and *STEAM Summer Program*.
 
 
 
 What is the location of the summer camp?
 ========================================
 
+The campus of Chelsea School in Hyattsville, MD: see `http://chelseaschool.edu/about/directions <http://chelseaschool.edu/about/directions>`_ for elaboration.
+
 What are the camp hours?
 ========================
+
+Weekdays from 9:00 AM to 4:30 PM from July 13th through July 24th.
 
 What is the break and lunch plan?
 =================================
 
+Brown bag lunches are recommended for participants. Lunch is scheduled between morning and afternoon sessions.
+
+15 minute breaks are provided between sessions.
+
 How can a parent best support a participant?
 ============================================
 
-What is the daily schedule?
-============================
+Engage in substantive discussion and enquiry about each day's content; provide an opportunity and support (perhaps working as a pair) for independent enquiry and practice after each day's programs conclude.
 
 What resources do participants need?
 ====================================
 
+Access to a computer and internet are recommended, but not necessary.
+
 What resources are provided by the camp staff?
 ===============================================
+
+All content materials, including e-texts, opportunities to screen films and videos; materials for arts and crafting; Windows 7 and GNU/Linux workstations. For the protection of the population, internet content filters are in place; when legitimate content is incidentally or mistakenly filtered, we will act quickly to make it available.
+
+In addition, participants will receive one USB drive containing course content and recommended software. Each participant will receive a second USB drive containing a live operating system (allows participants to explore alternative operating systems or functional toolkits without effecting home computers in any way).
 
 What additional resources are encouraged for participants?
 ===========================================================
 
+Ideal conditions include home access to an Intel i5 or AMD equivalent PC with 4-8 GB RAM and the ability to boot from USB drives; unfettered access to the Internet; a reading partner or guide; curiosity and the courage to pursue independent research related to program content.
+
 Is homework assigned?
 =====================
+
+Individualized and independent practice is recommended for each participant; opportunities for daily practice, with support, will provided during the morning 
+"Technology and the Arts" course.
 
 How can a participant prepare before camp starts?
 =================================================
 
+Our first recommendation is to look into the "Recommended Reading and Viewing" and looking into texts that provoke interest. Our second recommendation is to keep a reading log of texts, videos, and webpages that are read or scanned in anticipation of this summer program.
+
+We encourage eager participants to introduce themselves and ask for suggested starting points based on their interests and program paths: Initiate contact with the `contact form <https://secure.jotformpro.com/form/43524617695968>`_ at https://secure.jotformpro.com/form/43524617695968.
+
 Are there prerequisites for prospective participants?
 =====================================================
 
-Notes
-=======
+There is a grade level restriction: We welcome participants going in to grades 4 through 12.
+
+
 
 .. [1] From `Maryland State STEM Standards of Practice Framework <http://mdk12.org/instruction/academies/MDSTEM_Framework_Grades6-12.pdf>`_ (2012):
 
