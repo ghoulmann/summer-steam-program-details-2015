@@ -10,6 +10,10 @@ Preface
 Readings and Screenings
 ========================
 
+Aarseth, Espen J. *Cybertext: perspectives on ergodic literature*. JHU Press, 1997.
+
+Baudrillard, Jean. *Simulacra and simulation*. University of Michigan Press, 1994.
+
 Beyer, Kurt. *Grace Hopper and the Invention of the Information Age*. Cambridge, Mass.: MIT, 2009. Print.
 
 Blake, Victoria. *Cyberpunk: Stories of Hardware, Software, Wetware,
@@ -17,7 +21,6 @@ Evolution and Revolution*. Or.: Underland, 2013. Print.
 
 Briggs, Jason. *Python for Kids: A Guide for Beginners*. San Francisco,
 Calif.: No Starch ;, 2012. Print.
-
 
 Bueno, Carlos. *Lauren Ipsum: A Story about Computer Science and Other
 Improbable Things*. S.l.: O'Reilly Media, 2014. Print.
@@ -27,6 +30,8 @@ United Kingdom: In Easy Steps, 2012. Print.
 
 Carrott, James H., and Brian David Johnson. *Vintage Tomorrows: A Historian and a Futurist Journey through Steampunk into the Future of
 Technology*. Farnham: O'Reilly, 2013. Print.
+
+Castronova, Edward. *Synthetic worlds: The business and culture of online games*. University of Chicago Press, 2008.
 
 Cline, Ernest. *Ready Player One*. New York: Crown, 2011. Print.
 
@@ -63,8 +68,12 @@ Doctorow, Cory, and Charles Stross. *Rapture of the Nerds*. New York: Tor,
 
 Doctorow, Cory. *Pirate Cinema*. New York: Tor Teen, 2012. Print.
 
+Dworkin, Craig, and Kenneth Goldsmith, eds. *Against Expression: An Anthology of Conceptual Writing*. Northwestern University Press, 2011.
+
 Engebretson, Pat. *The Basics of Hacking and Penetration Testing Ethical Hacking and Penetration Testing Made Easy*. 2nd ed. Amsterdam: Syngress,
 an Imprint of Elsevier, 2013. Print.
+
+Engel, S. Morris. *With good reason: An introduction to informal fallacies*. New York: St. Martin's Press, 1994.
 
 Essinger, James. *A Female Genius: How Ada Lovelace Started the Computer Age.* Print.
 
@@ -77,13 +86,19 @@ Technology, 2009. Print.
 
 Gibson, William, and Bruce Sterling. *The Difference Engine*. New York: Bantam, 1991. Print.
 
+Gibson, William. *Distrust that particular flavor*. Penguin, 2012.
+
 Gibson, William, and Jack Womack. *Neuromancer*. New York: Ace, 2000.
 Print.
 
 Gibson, William.  *Johnny Mnemonic*. Tri-Star Pictures :, 2003. Film.
 
+Goldsmith, Kenneth. *Uncreative writing: Managing language in the digital age*. Columbia University Press, 2011.
+
 Goldstein, Emmanuel. *The Best of 2600: A Hacker Odyssey*. Indianapolis,
 IN: Wiley Pub., 2008. Print.
+
+Gosney, John W. *Beyond reality: A guide to alternate reality gaming*. Course Technology Press, 2005.
 
 Hafner, Katie, and Matthew Lyon. *Where Wizards Stay up Late: The Origins
 of the Internet*. New York: Simon & Schuster, 1996. Print.
@@ -99,6 +114,8 @@ Kelly, James P. *Rewired the Post-cyberpunk Anthology*. San Francisco, CA: Tachy
 
 Kubica, Jeremy. *Computational Fairy Tales*. North Charleston, S.C.:
 CreateSpace], 2012. Print.
+
+Kuhn, Thomas S. *The structure of scientific revolutions*. University of Chicago press, 2012.
 
 Langr, Jeff, and Tim Ottinger. *Agile in a Flash: Speed-learning Agile
 Software Development : Agile Cards for Agile Teams*. Raleigh: Pragmatic
@@ -184,6 +201,8 @@ Street, Jayson E. *Dissecting the Hack: the Forb1dd3n Network*. Amsterdam: Syngr
 
 *Super Scratch Programming Adventure!: Learn to Program by Making Cool Games* (covers Scratch 2.0). Print.
 
+Szulborski, Dave. *This is not a game: A guide to alternate reality gaming*. Incunabula, 2005.
+
 "The Critical Engineering Manifesto." The Critical Engineering Manifesto. Web. 30 Dec. 2014. <http://criticalengineering.org/>.
 
 "The Scrum Guide." Scrum Guide. Web. 30 Dec. 2014. <http://www.scrumguides.org/scrum-guide.html>.
@@ -209,4 +228,4 @@ Wiener, Norbert. *The Human Use of Human Beings: Cybernetics and Society*. 2nd e
 
 Williams, Sam. *Free as in Freedom (2.0): Richard Stallman and the Free Software Revolution*. 2nd ed. Boston, MA: Free Software Foundation, 2010. Print.
 
-.. index:: recommended reading, recommended viewing, bibliography, citeography
+.. index:: recommended reading, recommended viewing, bibliography, citeography, research, sources, fiction, nonfiction, films
