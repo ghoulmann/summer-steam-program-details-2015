@@ -132,6 +132,8 @@ Lessig, Lawrence. *Remix*. Bloomsbury Academic, 2008. Print.
 Levy, Steven. *Hackers: Heroes of the Computer Revolution: 25th
 Anniversary Edition*. Sebastopol, CA: O'Reilly, 2010. Print.
 
+MacKinnon, Rebecca. *Consent of the networked: the world-wide struggle for Internet freedom*. Basic Books, 2012.
+
 McGrath, Mike. *Linux in Easy Steps.* 4th ed. Southam, Warwickshire, UK:
 In Easy Steps/Computer Step, 2008. Print.
 
@@ -145,6 +147,8 @@ Minsky, Marvin Lee. *The Society of Mind*. New York: Simon and Schuster,
 
 Moody, Glyn. *Rebel Code: The inside Story of Linux and the Open Source
 Revolution*. Cambridge, Mass.: Perseus Pub., 2001. Print.
+
+Morozov, Evgeny. *The net delusion: The dark side of Internet freedom*. PublicAffairs, 2012.
 
 Muniz, Joseph, and Aamir Lakhani. *Web Penetration Testing with Kali Linux: a Practical Guide to Implementing Penetration Testing Strategies on Websites, Web Applications, and Standard Web Protocols with Kali Linux*. Birmingham: Packt, 2013. Print.
 
