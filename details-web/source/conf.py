@@ -121,8 +121,10 @@ html_theme_options = {
     'navbar_site_name': "Contents",
     'navbar_pagenav': False,
     'navbar_links': [
-        ("Brief", "http://teamchelsea.net/stemcamp", True),
+        ("Brief", "http://stem.chelseaschool.edu", True),
+        ("Index", "genindex.html", True),
         ("Chelsea School", "http://chelseaschool.edu", True),
+        ("Download PDF", "details.pdf", True)
     ],
 
 }

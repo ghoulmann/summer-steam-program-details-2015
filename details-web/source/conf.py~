@@ -117,12 +117,13 @@ html_theme_options = {
     'navbar_class': "navbar navbar-inverse",
     'navbar_fixed_top': "true",
     'source_link_position': "False",
-    'navbar_title': "STEAM Camp",
+    'navbar_title': "STEAM Experience",
     'navbar_site_name': "Contents",
     'navbar_pagenav': False,
     'navbar_links': [
-        ("Brief", "http://teamchelsea.net/stemcamp", True),
+        ("Brief", "http://stem.chelseaschool.edu", True),
         ("Chelsea School", "http://chelseaschool.edu", True),
+        ("Download PDF", "details.pdf", True)
     ],
 
 }
@@ -139,7 +140,7 @@ html_short_title = "STEAM 2015"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = "_static/internet_earth.png"
+html_logo = "_static/internet_earth_small.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
