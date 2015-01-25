@@ -21,7 +21,11 @@ STEAM Summer Technology Program 2015
    faq
    resources
 
+Apparatus
+==================
 
+* :ref:`genindex`
+* :ref:`search`
 
 
 
