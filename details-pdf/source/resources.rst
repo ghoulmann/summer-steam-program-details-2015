@@ -2,7 +2,13 @@
 Recommended Reading and Viewing
 ================================
 
+Preface
+========
+
 *What follows is a partial list of recommended texts for reading and viewing for our STEAM Summer Program participants and instructors. This list includes relevant fiction and non-fiction, for viewing, reading, and e-reading. Note that many of the resources listed here, such as the *BBS* Documentary and Cory Doctorow and Richard M. Stallman are freely available on the Web.*
+
+Readings and Screenings
+========================
 
 Beyer, Kurt. *Grace Hopper and the Invention of the Information Age*. Cambridge, Mass.: MIT, 2009. Print.
 
@@ -64,6 +70,8 @@ Essinger, James. *A Female Genius: How Ada Lovelace Started the Computer Age.* P
 
 *Extreme Programming Pocket Guide*. Beijing: O'Reilly, 2003. Print.
 
+Faircloth, Jeremy. *Penetration Tester's Open Source Toolkit*. Waltham, MA: Syngress, 2011. Print.
+
 Ford, Jerry Lee. *Scratch Programming for Teens*. Boston, MA: Course
 Technology, 2009. Print.
 
@@ -86,6 +94,8 @@ Haverbeke, Marijn. *Eloquent Javascript a Modern Introduction to Programming*. 2
  
 Hurley, Chris. *Penetration Tester's Open Source Toolkit*. Burlington,
 MA.: Syngress Pub., 2007. Print.
+
+Kelly, James P. *Rewired the Post-cyberpunk Anthology*. San Francisco, CA: Tachyon Publications, 2007. Print.
 
 Kubica, Jeremy. *Computational Fairy Tales*. North Charleston, S.C.:
 CreateSpace], 2012. Print.
@@ -115,7 +125,6 @@ Minsky, Marvin Lee. *The Society of Mind*. New York: Simon and Schuster,
 1986. Print.
 
 *Johnny Mnemonic*. Tri-Star Pictures, 2003. Film.
-
 
 Moody, Glyn. *Rebel Code: The inside Story of Linux and the Open Source
 Revolution*. Cambridge, Mass.: Perseus Pub., 2001. Print.
@@ -169,6 +178,7 @@ Sterling, Bruce. *The Hacker Crackdown Law and Disorder on the Electronic Fronti
 
 Sterling, Bruce. *Mirrorshades: The Cyberpunk Anthology*. New York: Arbor House, 1986. Print.
 
+Street, Jayson E. *Dissecting the Hack: the Forb1dd3n Network*. Amsterdam: Syngress, 2010. Print.
 
 *Super Scratch Programming Adventure! Learn to Program by Making Cool Games!* San Francisco: No Starch, 2012. Print.
 
