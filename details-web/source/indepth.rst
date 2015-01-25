@@ -19,7 +19,6 @@ STEAM Summer Technology Program 2015
    gamedev
    faculty
    faq
-   registration
    resources
 
 
