@@ -19,8 +19,14 @@ Prospective Activities & Topics
 * Build a 35mm Camera
 * Practice digital imaging and image manipulation with mobile devices and apps
 * Create and maintain a blog
-* Build a phonograph player
+* Build a phonograph player and create your own records
 * Set up a Raspberry Pi [credit-card sized computer]
+* Digital image special effects
+* Make electronic music with a do-it-yourself electronic synthesizer
+* Create LED origami
+* Animate a stuffed animal
+* Create a wireless NES bluetooth controller
+
 
 Prospective Guided & Independent Reading
 -------------------------------------------

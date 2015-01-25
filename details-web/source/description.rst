@@ -8,7 +8,7 @@ Overview
 Summary
 =======
 
-Through hands-on computing, Chelsea School's STEAM [1]_ Camp provides day-long, hands-on instruction in science, technology, engineering, mathematics, & the arts for students in 4th through 12th grades.
+Through hands-on computing, Chelsea School's STEAM [1]_ Summer Program provides day-long, hands-on instruction in science, technology, engineering, mathematics, & the arts for students in 4th through 12th grades.
 
 From July 13th through the 24th, 2015, our weekdays begin at 9:00 AM with a study of relationships between culture, the arts, & innovative technologies.
 

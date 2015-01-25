@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'indepth'
 
 # General information about the project.
-project = u'STEAM Camp 2015 @ Chelsea School'
+project = u'STEAM Summer Technology Program 2015 @ Chelsea School'
 copyright = u'2015, Chelsea School | Hyattsville, MD'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -117,7 +117,7 @@ html_theme_options = {
     'navbar_class': "navbar navbar-inverse",
     'navbar_fixed_top': "true",
     'source_link_position': "False",
-    'navbar_title': "STEAM Camp",
+    'navbar_title': "STEAM 2015",
     'navbar_site_name': "Contents",
     'navbar_pagenav': False,
     'navbar_links': [
@@ -132,7 +132,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "STEAM Adventure 2015"
+html_title = "STEAM Summer Program (2015)"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title = "STEAM 2015"
@@ -218,7 +218,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('indepth', 'STEAMCamp2015ChelseaSchool.tex', u'STEAM Adventure 2015 @ Chelsea School',
+  ('indepth', 'STEAMCamp2015ChelseaSchool.tex', u'STEAM Summer Technology Program (2015) @ Chelsea School',
    u'Chelsea School', 'manual'),
 ]
 

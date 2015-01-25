@@ -67,6 +67,8 @@
 \contentsline {subsubsection}{Building Different Game Types}{19}{subsubsection*.6}
 \contentsline {subsection}{\numberline {6.4.4}Building Your Own Game}{19}{subsection.6.4.4}
 \contentsline {subsection}{\numberline {6.4.5}Compiling Your Build}{20}{subsection.6.4.5}
+\contentsline {section}{\numberline {6.5}Technologies}{20}{section.6.5}
+\contentsline {section}{\numberline {6.6}Resources Referenced}{20}{section.6.6}
 \contentsline {chapter}{\numberline {7}Program Staff {[}draft in progress{]}}{21}{chapter.7}
 \contentsline {section}{\numberline {7.1}Rik Goldman}{21}{section.7.1}
 \contentsline {subsection}{\numberline {7.1.1}Sessions}{21}{subsection.7.1.1}
@@ -74,7 +76,6 @@
 \contentsline {subsection}{\numberline {7.2.1}Session}{21}{subsection.7.2.1}
 \contentsline {section}{\numberline {7.3}David Vest}{21}{section.7.3}
 \contentsline {subsection}{\numberline {7.3.1}Sessions}{21}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}Learn More}{21}{subsection.7.3.2}
 \contentsline {chapter}{\numberline {8}Frequently Asked Questions}{23}{chapter.8}
 \contentsline {section}{\numberline {8.1}What is Chelsea School?}{23}{section.8.1}
 \contentsline {section}{\numberline {8.2}What is STEM Education? What then is STEAM education?}{23}{section.8.2}
@@ -82,16 +83,15 @@
 \contentsline {section}{\numberline {8.4}What are the camp hours?}{24}{section.8.4}
 \contentsline {section}{\numberline {8.5}What is the break and lunch plan?}{24}{section.8.5}
 \contentsline {section}{\numberline {8.6}How can a parent best support a participant?}{24}{section.8.6}
-\contentsline {section}{\numberline {8.7}What is the daily schedule?}{24}{section.8.7}
-\contentsline {section}{\numberline {8.8}What resources do participants need?}{24}{section.8.8}
-\contentsline {section}{\numberline {8.9}What resources are provided by the camp staff?}{24}{section.8.9}
-\contentsline {section}{\numberline {8.10}What additional resources are encouraged for participants?}{24}{section.8.10}
-\contentsline {section}{\numberline {8.11}Is homework assigned?}{24}{section.8.11}
-\contentsline {section}{\numberline {8.12}How can a participant prepare before camp starts?}{24}{section.8.12}
-\contentsline {section}{\numberline {8.13}Are there prerequisites for prospective participants?}{24}{section.8.13}
-\contentsline {section}{\numberline {8.14}Notes}{24}{section.8.14}
-\contentsline {chapter}{\numberline {9}Registration}{25}{chapter.9}
-\contentsline {section}{\numberline {9.1}Registration Options}{25}{section.9.1}
-\contentsline {section}{\numberline {9.2}Open Registration}{25}{section.9.2}
-\contentsline {section}{\numberline {9.3}Registration How-To}{25}{section.9.3}
-\contentsline {chapter}{Index}{27}{section*.7}
+\contentsline {section}{\numberline {8.7}What resources do participants need?}{24}{section.8.7}
+\contentsline {section}{\numberline {8.8}What resources are provided by the camp staff?}{24}{section.8.8}
+\contentsline {section}{\numberline {8.9}What additional resources are encouraged for participants?}{25}{section.8.9}
+\contentsline {section}{\numberline {8.10}Is homework assigned?}{25}{section.8.10}
+\contentsline {section}{\numberline {8.11}How can a participant prepare before camp starts?}{25}{section.8.11}
+\contentsline {section}{\numberline {8.12}Are there prerequisites for prospective participants?}{25}{section.8.12}
+\contentsline {chapter}{\numberline {9}Registration}{27}{chapter.9}
+\contentsline {section}{\numberline {9.1}Registration Options}{27}{section.9.1}
+\contentsline {section}{\numberline {9.2}Open Registration}{27}{section.9.2}
+\contentsline {section}{\numberline {9.3}Registration How-To}{27}{section.9.3}
+\contentsline {chapter}{\numberline {10}Recommended Reading and Viewing}{29}{chapter.10}
+\contentsline {chapter}{Index}{33}{section*.7}

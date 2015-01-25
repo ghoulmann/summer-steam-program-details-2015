@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Summer STEAM Program 2015
+STEAM Summer Technology Program 2015
 ============================================================
 
 
@@ -20,6 +20,7 @@ Summer STEAM Program 2015
    faculty
    faq
    registration
+   resources
 
 
 

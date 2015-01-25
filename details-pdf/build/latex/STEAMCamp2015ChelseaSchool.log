@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.21)  22 JAN 2015 15:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.7.21)  24 JAN 2015 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -878,7 +878,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--120
 
  []
 
-<internet_earth.png, id=234, 513.92pt x 513.92pt>
+<internet_earth.png, id=238, 513.92pt x 513.92pt>
 File: internet_earth.png Graphic file (type png)
  <use internet_earth.png>
 Package pdftex.def Info: internet_earth.png used on input line 120.
@@ -913,7 +913,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
 (Font)              Font shape `T1/ptm/b/it' tried instead on input line 27.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 75.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 72.
  [1
 
 ])
@@ -966,10 +966,10 @@ Chapter 4.
 Chapter 5.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@ifnextchar' on input line 529.
+(hyperref)                removing `\@ifnextchar' on input line 544.
 
 [11] [12] [13]
-Overfull \hbox (26.94037pt too wide) in paragraph at lines 730--731
+Overfull \hbox (26.94037pt too wide) in paragraph at lines 745--746
 []\T1/ptm/m/it/10 Computer Se-cu-rity Lit-er-acy: Stay-ing Safe in a Dig-i-tal 
 World \T1/ptm/m/n/10 <[][]http://www.crcpress.com/product/isbn/9781439856185[][
 ]>
@@ -987,37 +987,39 @@ Chapter 7.
 
 ]
 Chapter 8.
-[23] [24]
+[23] [24] [25] [26
+
+]
 Chapter 9.
-(./STEAMCamp2015ChelseaSchool.ind [25
+[27] [28
 
-] [26
+]
+Chapter 10.
+[29] [30] (./STEAMCamp2015ChelseaSchool.ind [31] [32
 
-] [27
+] [33
 
-] [28
-
-])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1447.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1447.
+] [34])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1709.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1709.
 
 (./STEAMCamp2015ChelseaSchool.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1447.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1447.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1709.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1709.
 
 Package rerunfilecheck Info: File `STEAMCamp2015ChelseaSchool.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 01915A3FFE05AE57B8AF83C697BD1ACB;4090.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1447.
+(rerunfilecheck)             Checksum: 5F36FB7A1B5F2B67B8A3D016437FCA07;4156.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1709.
  ) 
 Here is how much of TeX's memory you used:
- 9385 strings out of 494985
- 131896 string characters out of 6180356
- 232571 words of memory out of 5000000
- 12182 multiletter control sequences out of 15000+600000
+ 9394 strings out of 494985
+ 132016 string characters out of 6180356
+ 233505 words of memory out of 5000000
+ 12185 multiletter control sequences out of 15000+600000
  79620 words of font info for 85 fonts, out of 8000000 for 9000
  37 hyphenation exceptions out of 8191
- 41i,12n,51p,1071b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,48p,1071b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type
@@ -1025,10 +1027,10 @@ e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on STEAMCamp2015ChelseaSchool.pdf (32 pages, 240150 bytes).
+Output written on STEAMCamp2015ChelseaSchool.pdf (38 pages, 258242 bytes).
 PDF statistics:
- 668 PDF objects out of 1000 (max. 8388607)
- 613 compressed objects within 7 object streams
- 147 named destinations out of 1000 (max. 500000)
- 482 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 746 PDF objects out of 1000 (max. 8388607)
+ 685 compressed objects within 7 object streams
+ 153 named destinations out of 1000 (max. 500000)
+ 490 words of extra memory for PDF output out of 10000 (max. 10000000)
 

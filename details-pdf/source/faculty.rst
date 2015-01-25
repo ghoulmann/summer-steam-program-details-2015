@@ -31,7 +31,6 @@ Sessions
 
 
 
-Learn More
-----------
+
 
 .. index:: faculty, staff, administration

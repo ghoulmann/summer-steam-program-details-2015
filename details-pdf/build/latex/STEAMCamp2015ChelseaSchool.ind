@@ -4,6 +4,7 @@
   \bigletter A
   \item administration, \hyperpage{21}
   \item Agile, \hyperpage{16}
+  \item Android, \hyperpage{20}
   \item array, \hyperpage{7}
   \item Atlassian, \hyperpage{16}
 
@@ -12,17 +13,19 @@
   \item Backbox Linux, \hyperpage{16}
   \item bash, \hyperpage{7}
   \item best practice, \hyperpage{7}
-  \item break, \hyperpage{24}
+  \item Blender, \hyperpage{20}
+  \item break, \hyperpage{25}
 
   \indexspace
   \bigletter C
+  \item C\#, \hyperpage{20}
   \item capture the flag, \hyperpage{16}
   \item careers, \hyperpage{16}
   \item certification, \hyperpage{16}
   \item certified ethical hacker, \hyperpage{16}
   \item cli, \hyperpage{7}
   \item coding, \hyperpage{7}
-  \item collaboration, \hyperpage{16}
+  \item collaboration, \hyperpage{16}, \hyperpage{20}
   \item commenting, \hyperpage{7}
   \item comments, \hyperpage{7}
   \item compiled languages, \hyperpage{7}
@@ -40,6 +43,10 @@
   \item digital forensics, \hyperpage{16}
 
   \indexspace
+  \bigletter E
+  \item Eclipse, \hyperpage{20}
+
+  \indexspace
   \bigletter F
   \item faculty, \hyperpage{21}
   \item filesystem navigation, \hyperpage{7}
@@ -51,28 +58,34 @@
 
   \indexspace
   \bigletter G
+  \item game development, \hyperpage{20}
+  \item game history, \hyperpage{20}
+  \item Games, \hyperpage{20}
+  \item GIMP, \hyperpage{20}
   \item git, \hyperpage{7}, \hyperpage{16}
   \item Github, \hyperpage{16}
   \item GNU/Linux, \hyperpage{16}
   \item goals, \hyperpage{3}
+  \item Google, \hyperpage{20}
 
   \indexspace
   \bigletter H
-  \item homework, \hyperpage{24}
-  \item hybrid learning, \hyperpage{24}
+  \item homework, \hyperpage{25}
+  \item hybrid learning, \hyperpage{25}
 
   \indexspace
   \bigletter I
   \item if/then, \hyperpage{7}
-  \item independent practice, \hyperpage{24}
+  \item independent practice, \hyperpage{25}
   \item information security, \hyperpage{16}
   \item infosec, \hyperpage{16}
+  \item interactive narrative, \hyperpage{20}
   \item interpreted languages, \hyperpage{7}
-  \item itinerary, \hyperpage{24}
+  \item itinerary, \hyperpage{25}
 
   \indexspace
   \bigletter J
-  \item JavaScript, \hyperpage{7}
+  \item JavaScript, \hyperpage{7}, \hyperpage{20}
   \item Jira, \hyperpage{16}
 
   \indexspace
@@ -81,32 +94,37 @@
 
   \indexspace
   \bigletter L
-  \item learning management system, \hyperpage{24}
+  \item learning management system, \hyperpage{25}
   \item Linux, \hyperpage{7}, \hyperpage{16}
-  \item LMS, \hyperpage{24}
-  \item location, \hyperpage{24}
+  \item LMS, \hyperpage{25}
+  \item location, \hyperpage{25}
   \item loop, \hyperpage{7}
+  \item Loops, \hyperpage{20}
   \item LPI, \hyperpage{16}
-  \item lunch, \hyperpage{24}
+  \item lunch, \hyperpage{25}
 
   \indexspace
   \bigletter M
   \item malware, \hyperpage{16}
+  \item Mesh, \hyperpage{20}
   \item Microsoft, \hyperpage{16}
+  \item Microsoft Windows, \hyperpage{20}
   \item Microsoft Windows 7, \hyperpage{7}
   \item MIT, \hyperpage{7}
-  \item Moodle, \hyperpage{24}
-  \item MSDE, \hyperpage{24}
+  \item Moodle, \hyperpage{25}
+  \item MSDE, \hyperpage{25}
 
   \indexspace
   \bigletter N
+  \item Narrative, \hyperpage{20}
   \item Network+, \hyperpage{16}
+  \item Notepad++, \hyperpage{20}
 
   \indexspace
   \bigletter P
   \item penetration testing, \hyperpage{16}
   \item post-secondary pathways, \hyperpage{16}
-  \item prerequisites, \hyperpage{24}
+  \item prerequisites, \hyperpage{25}
   \item programming, \hyperpage{7}
   \item programs, \hyperpage{3}
   \item Python, \hyperpage{7}
@@ -124,6 +142,7 @@
   \item scripting, \hyperpage{7}
   \item scrum, \hyperpage{16}
   \item ScrumMaster, \hyperpage{16}
+  \item SDK, \hyperpage{20}
   \item Security+, \hyperpage{16}
   \item sessions, \hyperpage{3}
   \item shell scripting, \hyperpage{7}
@@ -131,15 +150,16 @@
   \item sprite, \hyperpage{7}
   \item staff, \hyperpage{21}
   \item STEAM Education, \hyperpage{3}
-  \item STEAM education, \hyperpage{24}
+  \item STEAM education, \hyperpage{25}
   \item STEM Education, \hyperpage{3}
-  \item STEM education, \hyperpage{24}
+  \item STEM education, \hyperpage{25}
   \item summary, \hyperpage{3}
   \item system administration, \hyperpage{7}
 
   \indexspace
   \bigletter U
   \item Ubuntu, \hyperpage{16}
+  \item Unity Game Engine, \hyperpage{20}
 
   \indexspace
   \bigletter V
