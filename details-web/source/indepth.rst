@@ -13,6 +13,7 @@ STEAM Summer Technology Program 2015
 
    description
    philosophy
+   in-kind
    programming
    arts
    cybersecurity
