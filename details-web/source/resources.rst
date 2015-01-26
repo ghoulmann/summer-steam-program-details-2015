@@ -236,4 +236,4 @@ Wiener, Norbert. *The Human Use of Human Beings: Cybernetics and Society*. 2nd e
 
 Williams, Sam. *Free as in Freedom (2.0): Richard Stallman and the Free Software Revolution*. 2nd ed. Boston, MA: Free Software Foundation, 2010. Print.
 
-.. index:: recommended reading, recommended viewing, bibliography, citeography, research, sources, fiction, nonfiction, films
+.. index:: recommended reading, recommended viewing, bibliography, citeography, research, sources, fiction, nonfiction, films, MLA, Works Cited
