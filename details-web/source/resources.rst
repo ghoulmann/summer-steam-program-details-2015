@@ -19,6 +19,8 @@ Beyer, Kurt. *Grace Hopper and the Invention of the Information Age*. Cambridge,
 Blake, Victoria. *Cyberpunk: Stories of Hardware, Software, Wetware,
 Evolution and Revolution*. Or.: Underland, 2013. Print.
 
+Bracy, Catherine. "Why Good Hackers Make Good Citizens." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens>.
+
 Briggs, Jason. *Python for Kids: A Guide for Beginners*. San Francisco,
 Calif.: No Starch ;, 2012. Print.
 
@@ -70,6 +72,8 @@ Doctorow, Cory. *Pirate Cinema*. New York: Tor Teen, 2012. Print.
 
 Dworkin, Craig, and Kenneth Goldsmith, eds. *Against Expression: An Anthology of Conceptual Writing*. Northwestern University Press, 2011.
 
+Elazari, Keren. "Hackers: The Internet's Immune System." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system>.
+
 Engebretson, Pat. *The Basics of Hacking and Penetration Testing Ethical Hacking and Penetration Testing Made Easy*. 2nd ed. Amsterdam: Syngress,
 an Imprint of Elsevier, 2013. Print.
 
@@ -92,6 +96,8 @@ Gibson, William, and Jack Womack. *Neuromancer*. New York: Ace, 2000.
 Print.
 
 Gibson, William.  *Johnny Mnemonic*. Tri-Star Pictures :, 2003. Film.
+
+Glenny, Misha. "Hire the Hackers!" Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/misha_glenny_hire_the_hackers>.
 
 Goldsmith, Kenneth. *Uncreative writing: Managing language in the digital age*. Columbia University Press, 2011.
 
@@ -154,6 +160,8 @@ Muniz, Joseph, and Aamir Lakhani. *Web Penetration Testing with Kali Linux: a Pr
 
 Munroe, Randall. *Xkcd: Volume 0.* Print.
  
+*Overdrawn at the Memory Bank* (*Mystery Science Theatre 3000* Episode). Perf. Mike Nelson. Rhino Home Video, 2003. Film. . Perf. Mike Nelson. Rhino Home Video, 2003.  Film. <http://youtu.be/UVo0dyjnWYo>
+ 
 *New Rose Hotel*. Sterling Home Entertainment, 1998. Film.
 
 Poulsen, Tim. *CompTIA Linux Certification Powered by LPI*. Fairport, NY:
@@ -169,6 +177,8 @@ Raymond, Eric S. *The Cathedral and the Bazaar Musings on Linux and Open Source 
 2001. Print.
 
 Regalado, Daniel. *Gray Hat Hacking: The Ethical Hacker's Handbook*. 4th ed. S.l.: McGraw-Hill, 2014. Print.
+
+Rubin, Avi. "All Your Devices Can Be Hacked." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked>.
 
 Rushkoff, Douglas. "Study Guide: Program or Be Programmed." Web. 25 Jan. 2015. <http://dtc-wsuv.org/hashnextchapter/wp-content/uploads/2013/03/Rushkoff-Study-Guide.pdf>.
 
@@ -220,6 +230,8 @@ Thorn, Alan. *Unity 4 Fundamentals Get Started at Making Games with Unity*. Burl
 
 Turkle, Sherry. *Life on the Screen: Identity in the Age of the Internet*. New York: Simon & Schuster, 1995. Print.
 
+Varley, John. "Overdrawn at the Memory Bank." *The John Varley Reader* (1978): 24-52.
+
 Vinge, Vernor. *True names and the opening of the cyberspace frontier*. Ed. James Frenkel. Macmillan, 2001. <http://www.scotswolf.com/truenames.pdf>
 
 Walker, Matthew. *CEH, Certified Ethical Hacker: Exam Guide : All-in-one*. New York: McGraw-Hill, 2012. Print.
@@ -229,6 +241,8 @@ Walker, Matthew. *CEH, Certified Ethical Hacker: Exam Guide : All-in-one*. New Y
 Wark, McKenzie. *A Hacker Manifesto*. Cambridge, MA: Harvard UP, 2004. Print.
 
 Wark, McKenzie. *Gamer Theory*. Cambridge, Mass.: Harvard UP, 2007. Print.
+
+"Who Are the Hackers? [Playlist]." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/playlists/10/who_are_the_hackers>.
 
 Wiener, Norbert. *Cybernetics: Control and Communication in the Animal and the Machine*. New York: Wiley, 1948. Print.
 
