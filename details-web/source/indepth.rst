@@ -27,6 +27,7 @@ Apparatus
 
 * :ref:`genindex`
 * :ref:`search`
+* `Print PDF <./details.pdf>`_
 
 
 
