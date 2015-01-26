@@ -163,6 +163,8 @@ Rao, Umesh Hodeghatta, and Umesha Nyak. *The InfoSec Handbook: an Introduction t
 
 Raymond, Eric S. How To Become A Hacker. Web. 24 Jan. 2015. <http://www.catb.org/esr/faqs/hacker-howto.html>.
 
+Raymond, Eric S. (ed). *The Jargon File*. Web. 25 Jan. 2015. <http://www.catb.org/jargon/html/>
+
 Raymond, Eric S. *The Cathedral and the Bazaar Musings on Linux and Open Source by an Accidental Revolutionary*. Sebastopol: O'Reilly Media,
 2001. Print.
 
@@ -193,7 +195,7 @@ Stephenson, Neal. *The Diamond Age, Or, Young Lady's Illustrated Primer*.
 New York: Bantam, 1995. Print.
 
 Stephenson, Neal. *In the Beginning ... Was the Command Line*. New York:
-Avon, 1999. Print.
+Avon, 1999. Print. <http://abil.eln.gov.br/DOC/MEDICAO_FASORIAL/OUTROS/In%20The%20Beggining%20Was%20The%20Command%20Line%20stephenson.pdf>
 
 Sterling, Bruce. *The Hacker Crackdown Law and Disorder on the Electronic Frontier.* Champaign, Ill.: Project Gutenberg. Print.
 
@@ -217,6 +219,8 @@ Print.
 Thorn, Alan. *Unity 4 Fundamentals Get Started at Making Games with Unity*. Burlington, MA: Focal, 2014. Print.
 
 Turkle, Sherry. *Life on the Screen: Identity in the Age of the Internet*. New York: Simon & Schuster, 1995. Print.
+
+Vinge, Vernor. *True names and the opening of the cyberspace frontier*. Ed. James Frenkel. Macmillan, 2001. <http://www.scotswolf.com/truenames.pdf>
 
 Walker, Matthew. *CEH, Certified Ethical Hacker: Exam Guide : All-in-one*. New York: McGraw-Hill, 2012. Print.
 
