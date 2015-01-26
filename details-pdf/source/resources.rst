@@ -2,13 +2,9 @@
 Recommended Reading and Viewing
 ================================
 
-Preface
-========
 
-*What follows is a partial list of recommended texts for reading and viewing for our STEAM Summer Program participants and instructors. This list includes relevant fiction and non-fiction, for viewing, reading, and e-reading. Note that many of the resources listed here, such as the *BBS* Documentary and Cory Doctorow and Richard M. Stallman are freely available on the Web.*
-
-Readings and Screenings
-========================
+Content Area Readings and Screenings
+======================================
 
 Aarseth, Espen J. *Cybertext: perspectives on ergodic literature*. JHU Press, 1997.
 
@@ -18,6 +14,8 @@ Beyer, Kurt. *Grace Hopper and the Invention of the Information Age*. Cambridge,
 
 Blake, Victoria. *Cyberpunk: Stories of Hardware, Software, Wetware,
 Evolution and Revolution*. Or.: Underland, 2013. Print.
+
+Bracy, Catherine. "Why Good Hackers Make Good Citizens." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/catherine_bracy_why_good_hackers_make_good_citizens>.
 
 Briggs, Jason. *Python for Kids: A Guide for Beginners*. San Francisco,
 Calif.: No Starch ;, 2012. Print.
@@ -47,14 +45,16 @@ Dick, Philip K. *Do Androids Dream of Electric Sheep?* New York: Ballantine, 199
 
 *The Digital Manifesto Archive*. Web. 24 Jan. 2015. <https://digitalmanifesto.omeka.net/>.
  
-Doctorow, Cory, and Amanda Palmer. *Information Doesn't Want to Be Free: Laws for the Internet Age*. Print.
+Doctorow, Cory, and Amanda Palmer and Neal Gaiman. *Information Doesn't Want to Be Free: Laws for the Internet Age*. Print.
 
 Doctorow, Cory. *Down and out in the Magic Kingdom*. New York: Tor, 2003.
 Print.
 
 Doctorow, Cory. *Eastern Standard Tribe*. New York: Tor, 2004. Print.
 
-Doctorow, Cory. "When Sysadmins Ruled the World." *Overclocked: Stories of the Future Present*. New York: Thunder's Mouth ;, 2007. Print.
+Doctorow, Cory. *Makers*. 26 Jan. 2015. Web. <http://craphound.com/makers/Cory_Doctorow_-_Makers_Letter.pdf> 
+
+Doctorow, Cory. "When Sysadmins Ruled the World." *Overclocked: Stories of the Future Present*. New York: Thunder's Mouth, 2007. Print.
 
 Doctorow, Cory. *Little Brother*. New York: Tom Doherty Associates, 2008.
 Print.
@@ -69,6 +69,8 @@ Doctorow, Cory, and Charles Stross. *Rapture of the Nerds*. New York: Tor,
 Doctorow, Cory. *Pirate Cinema*. New York: Tor Teen, 2012. Print.
 
 Dworkin, Craig, and Kenneth Goldsmith, eds. *Against Expression: An Anthology of Conceptual Writing*. Northwestern University Press, 2011.
+
+Elazari, Keren. "Hackers: The Internet's Immune System." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system>.
 
 Engebretson, Pat. *The Basics of Hacking and Penetration Testing Ethical Hacking and Penetration Testing Made Easy*. 2nd ed. Amsterdam: Syngress,
 an Imprint of Elsevier, 2013. Print.
@@ -92,6 +94,8 @@ Gibson, William, and Jack Womack. *Neuromancer*. New York: Ace, 2000.
 Print.
 
 Gibson, William.  *Johnny Mnemonic*. Tri-Star Pictures :, 2003. Film.
+
+Glenny, Misha. "Hire the Hackers!" Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/misha_glenny_hire_the_hackers>.
 
 Goldsmith, Kenneth. *Uncreative writing: Managing language in the digital age*. Columbia University Press, 2011.
 
@@ -154,6 +158,8 @@ Muniz, Joseph, and Aamir Lakhani. *Web Penetration Testing with Kali Linux: a Pr
 
 Munroe, Randall. *Xkcd: Volume 0.* Print.
  
+*Overdrawn at the Memory Bank* (*Mystery Science Theatre 3000* Episode). Perf. Mike Nelson. Rhino Home Video, 2003. Film. . Perf. Mike Nelson. Rhino Home Video, 2003.  Film. <http://youtu.be/UVo0dyjnWYo>
+ 
 *New Rose Hotel*. Sterling Home Entertainment, 1998. Film.
 
 Poulsen, Tim. *CompTIA Linux Certification Powered by LPI*. Fairport, NY:
@@ -169,6 +175,8 @@ Raymond, Eric S. *The Cathedral and the Bazaar Musings on Linux and Open Source 
 2001. Print.
 
 Regalado, Daniel. *Gray Hat Hacking: The Ethical Hacker's Handbook*. 4th ed. S.l.: McGraw-Hill, 2014. Print.
+
+Rubin, Avi. "All Your Devices Can Be Hacked." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked>.
 
 Rushkoff, Douglas. "Study Guide: Program or Be Programmed." Web. 25 Jan. 2015. <http://dtc-wsuv.org/hashnextchapter/wp-content/uploads/2013/03/Rushkoff-Study-Guide.pdf>.
 
@@ -220,6 +228,10 @@ Thorn, Alan. *Unity 4 Fundamentals Get Started at Making Games with Unity*. Burl
 
 Turkle, Sherry. *Life on the Screen: Identity in the Age of the Internet*. New York: Simon & Schuster, 1995. Print.
 
+Varley, John. "Overdrawn at the Memory Bank." *The John Varley Reader* (1978): 24-52.
+
+Varley, John. "Overdrawn at the Memory Bank." *The Persistence of Vision* (1978). Web. 26 Jan. 2015. <ftp://82.1.244.36/shares/USB_Storage/Media/Books/Non-Medical/John%20Varley/John%20Varley%20-%20The%20Persistence%20of%20Vision.pdf>
+
 Vinge, Vernor. *True names and the opening of the cyberspace frontier*. Ed. James Frenkel. Macmillan, 2001. <http://www.scotswolf.com/truenames.pdf>
 
 Walker, Matthew. *CEH, Certified Ethical Hacker: Exam Guide : All-in-one*. New York: McGraw-Hill, 2012. Print.
@@ -230,10 +242,23 @@ Wark, McKenzie. *A Hacker Manifesto*. Cambridge, MA: Harvard UP, 2004. Print.
 
 Wark, McKenzie. *Gamer Theory*. Cambridge, Mass.: Harvard UP, 2007. Print.
 
+"Who Are the Hackers? [Playlist]." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/playlists/10/who_are_the_hackers>.
+
 Wiener, Norbert. *Cybernetics: Control and Communication in the Animal and the Machine*. New York: Wiley, 1948. Print.
 
 Wiener, Norbert. *The Human Use of Human Beings: Cybernetics and Society*. 2nd ed. Garden City, New York: Doubleday, 1954. Print.
 
 Williams, Sam. *Free as in Freedom (2.0): Richard Stallman and the Free Software Revolution*. 2nd ed. Boston, MA: Free Software Foundation, 2010. Print.
 
-.. index:: recommended reading, recommended viewing, bibliography, citeography, research, sources, fiction, nonfiction, films
+Pedagogy
+==========
+
+Friere, Paolo. *Pedagogy of the Oppressed*. 26 Jan. 2015. Web. <https://libcom.org/files/FreirePedagogyoftheOppressed.pdf>
+
+Ito, Mizuko. *Connected Learning: An Agenda for Research and Design*. 25 Jan. 2015. Web. <http://eprints.lse.ac.uk/48114/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Livingstone%2C%20S_Livingstone_Connected_learning_agenda_2010_Livingstone_Connected_learning_agenda_2013.pdf>
+
+Renshaw, Peter D. "The Sociocultural Theory of Teaching and Learning." 25 Jan. 2015. Web. <http://webpages.charter.net/schmolze1/vygotsky/>
+
+Taber, Kieth S. *Constructivism as Educational Theory: Contingency in Learning and Optimally Guided Instruction.* New York: Nova Publishers. 26 Jan. 2015. Web. <https://camtools.cam.ac.uk/access/content/group/cbe67867-b999-4f62-8eb7-58696f3cedf7/Educational%20Theory/Constructivism%20as%20Educational%20Theory.pdf>
+
+.. index:: recommended reading, recommended viewing, bibliography, citeography, research, sources, fiction, nonfiction, films, MLA, Works Cited

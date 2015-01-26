@@ -2,13 +2,9 @@
 Recommended Reading and Viewing
 ================================
 
-Preface
-========
 
-*What follows is a partial list of recommended texts for reading and viewing for our STEAM Summer Program participants and instructors. This list includes relevant fiction and non-fiction, for viewing, reading, and e-reading. Note that many of the resources listed here, such as the *BBS* Documentary and Cory Doctorow and Richard M. Stallman are freely available on the Web.*
-
-Readings and Screenings
-========================
+Content Area Readings and Screenings
+======================================
 
 Aarseth, Espen J. *Cybertext: perspectives on ergodic literature*. JHU Press, 1997.
 
@@ -49,14 +45,16 @@ Dick, Philip K. *Do Androids Dream of Electric Sheep?* New York: Ballantine, 199
 
 *The Digital Manifesto Archive*. Web. 24 Jan. 2015. <https://digitalmanifesto.omeka.net/>.
  
-Doctorow, Cory, and Amanda Palmer. *Information Doesn't Want to Be Free: Laws for the Internet Age*. Print.
+Doctorow, Cory, and Amanda Palmer and Neal Gaiman. *Information Doesn't Want to Be Free: Laws for the Internet Age*. Print.
 
 Doctorow, Cory. *Down and out in the Magic Kingdom*. New York: Tor, 2003.
 Print.
 
 Doctorow, Cory. *Eastern Standard Tribe*. New York: Tor, 2004. Print.
 
-Doctorow, Cory. "When Sysadmins Ruled the World." *Overclocked: Stories of the Future Present*. New York: Thunder's Mouth ;, 2007. Print.
+Doctorow, Cory. *Makers*. 26 Jan. 2015. Web. <http://craphound.com/makers/Cory_Doctorow_-_Makers_Letter.pdf> 
+
+Doctorow, Cory. "When Sysadmins Ruled the World." *Overclocked: Stories of the Future Present*. New York: Thunder's Mouth, 2007. Print.
 
 Doctorow, Cory. *Little Brother*. New York: Tom Doherty Associates, 2008.
 Print.
@@ -232,6 +230,8 @@ Turkle, Sherry. *Life on the Screen: Identity in the Age of the Internet*. New Y
 
 Varley, John. "Overdrawn at the Memory Bank." *The John Varley Reader* (1978): 24-52.
 
+Varley, John. "Overdrawn at the Memory Bank." *The Persistence of Vision* (1978). Web. 26 Jan. 2015. <ftp://82.1.244.36/shares/USB_Storage/Media/Books/Non-Medical/John%20Varley/John%20Varley%20-%20The%20Persistence%20of%20Vision.pdf>
+
 Vinge, Vernor. *True names and the opening of the cyberspace frontier*. Ed. James Frenkel. Macmillan, 2001. <http://www.scotswolf.com/truenames.pdf>
 
 Walker, Matthew. *CEH, Certified Ethical Hacker: Exam Guide : All-in-one*. New York: McGraw-Hill, 2012. Print.
@@ -249,5 +249,16 @@ Wiener, Norbert. *Cybernetics: Control and Communication in the Animal and the M
 Wiener, Norbert. *The Human Use of Human Beings: Cybernetics and Society*. 2nd ed. Garden City, New York: Doubleday, 1954. Print.
 
 Williams, Sam. *Free as in Freedom (2.0): Richard Stallman and the Free Software Revolution*. 2nd ed. Boston, MA: Free Software Foundation, 2010. Print.
+
+Pedagogy
+==========
+
+Friere, Paolo. *Pedagogy of the Oppressed*. 26 Jan. 2015. Web. <https://libcom.org/files/FreirePedagogyoftheOppressed.pdf>
+
+Ito, Mizuko. *Connected Learning: An Agenda for Research and Design*. 25 Jan. 2015. Web. <http://eprints.lse.ac.uk/48114/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Livingstone%2C%20S_Livingstone_Connected_learning_agenda_2010_Livingstone_Connected_learning_agenda_2013.pdf>
+
+Renshaw, Peter D. "The Sociocultural Theory of Teaching and Learning." 25 Jan. 2015. Web. <http://webpages.charter.net/schmolze1/vygotsky/>
+
+Taber, Kieth S. *Constructivism as Educational Theory: Contingency in Learning and Optimally Guided Instruction.* New York: Nova Publishers. 26 Jan. 2015. Web. <https://camtools.cam.ac.uk/access/content/group/cbe67867-b999-4f62-8eb7-58696f3cedf7/Educational%20Theory/Constructivism%20as%20Educational%20Theory.pdf>
 
 .. index:: recommended reading, recommended viewing, bibliography, citeography, research, sources, fiction, nonfiction, films, MLA, Works Cited
