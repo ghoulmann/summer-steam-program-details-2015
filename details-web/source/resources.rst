@@ -2,17 +2,6 @@
 Recommended Reading and Viewing
 ================================
 
-Buchanan, Cameron. Kali LInux CTF Blueprints Build, Test, and Customize Your Own Capture the Flag Challenges across Mulitiple Platforms Designed to Be Attacked with Kali Linux. Birmingham, UK: Packt Pub., 2014. Print.
-*Hackers*. National Geographic, 2010. Film. 25 Jan. 2015. <http://youtu.be/rD4tCTxAYKU>
-
-Engebretson, Pat. The Basics of Hacking and Penetration Testing Ethical Hacking and Penetration Testing Made Easy. 2nd ed. Amsterdam: Syngress, an Imprint of Elsevier, 2013. Print.
-TPB AFK - The Pirate Bay Away from Keyboard. S.n.], 2013. Film.
-The Internet's Own Boy. Film.
-Milano, Alyssa, and Jackson Lanzing. Hacktivist. Print.
-Sammons, John. The Basics of Digital Forensics the Primer for Getting Started in Digital Forensics. Waltham, MA: Syngress, 2012. Print.
-Revolution OS. Wonderview Productions ;, 2002. Film.
-The Matrix. Warner Bros. Pictures :, 2001. Film.
-
 Content Area Readings and Screenings
 ======================================
 
@@ -277,11 +266,15 @@ Williams, Sam. *Free as in Freedom (2.0): Richard Stallman and the Free Software
 Pedagogy
 ==========
 
+
+
 Friere, Paolo. *Pedagogy of the Oppressed*. 26 Jan. 2015. Web. <https://libcom.org/files/FreirePedagogyoftheOppressed.pdf>
 
 Ito, Mizuko. *Connected Learning: An Agenda for Research and Design*. 25 Jan. 2015. Web. <http://eprints.lse.ac.uk/48114/1/__lse.ac.uk_storage_LIBRARY_Secondary_libfile_shared_repository_Content_Livingstone%2C%20S_Livingstone_Connected_learning_agenda_2010_Livingstone_Connected_learning_agenda_2013.pdf>
 
 Renshaw, Peter D. "The Sociocultural Theory of Teaching and Learning." 25 Jan. 2015. Web. <http://webpages.charter.net/schmolze1/vygotsky/>
+
+Sousa, David A., and Thomas Pilecki. *From STEM to STEAM: Using Brain-compatible Strategies to Integrate the Arts*. Print.
 
 Taber, Kieth S. *Constructivism as Educational Theory: Contingency in Learning and Optimally Guided Instruction.* New York: Nova Publishers. 26 Jan. 2015. Web. <https://camtools.cam.ac.uk/access/content/group/cbe67867-b999-4f62-8eb7-58696f3cedf7/Educational%20Theory/Constructivism%20as%20Educational%20Theory.pdf>
 
