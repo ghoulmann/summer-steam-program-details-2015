@@ -2,6 +2,16 @@
 Recommended Reading and Viewing
 ================================
 
+Buchanan, Cameron. Kali LInux CTF Blueprints Build, Test, and Customize Your Own Capture the Flag Challenges across Mulitiple Platforms Designed to Be Attacked with Kali Linux. Birmingham, UK: Packt Pub., 2014. Print.
+*Hackers*. National Geographic, 2010. Film. 25 Jan. 2015. <http://youtu.be/rD4tCTxAYKU>
+
+Engebretson, Pat. The Basics of Hacking and Penetration Testing Ethical Hacking and Penetration Testing Made Easy. 2nd ed. Amsterdam: Syngress, an Imprint of Elsevier, 2013. Print.
+TPB AFK - The Pirate Bay Away from Keyboard. S.n.], 2013. Film.
+The Internet's Own Boy. Film.
+Milano, Alyssa, and Jackson Lanzing. Hacktivist. Print.
+Sammons, John. The Basics of Digital Forensics the Primer for Getting Started in Digital Forensics. Waltham, MA: Syngress, 2012. Print.
+Revolution OS. Wonderview Productions ;, 2002. Film.
+The Matrix. Warner Bros. Pictures :, 2001. Film.
 
 Content Area Readings and Screenings
 ======================================
@@ -19,6 +29,8 @@ Bracy, Catherine. "Why Good Hackers Make Good Citizens." Ted.com. Ted Talks. Web
 
 Briggs, Jason. *Python for Kids: A Guide for Beginners*. San Francisco,
 Calif.: No Starch ;, 2012. Print.
+
+Buchanan, Cameron. *Kali Linux CTF Blueprints Build, Test, and Customize Your Own Capture the Flag Challenges across Mulitiple Platforms Designed to Be Attacked with Kali Linux*. Birmingham, UK: Packt Pub., 2014. Print.
 
 Bueno, Carlos. *Lauren Ipsum: A Story about Computer Science and Other
 Improbable Things*. S.l.: O'Reilly Media, 2014. Print.
@@ -104,6 +116,8 @@ IN: Wiley Pub., 2008. Print.
 
 Gosney, John W. *Beyond reality: A guide to alternate reality gaming*. Course Technology Press, 2005.
 
+*Hackers*. National Geographic, 2010. Film. 25 Jan. 2015. <http://youtu.be/rD4tCTxAYKU>
+
 Hafner, Katie, and Matthew Lyon. *Where Wizards Stay up Late: The Origins
 of the Internet*. New York: Simon & Schuster, 1996. Print.
 
@@ -138,11 +152,15 @@ Anniversary Edition*. Sebastopol, CA: O'Reilly, 2010. Print.
 
 MacKinnon, Rebecca. *Consent of the networked: the world-wide struggle for Internet freedom*. Basic Books, 2012.
 
+*The Matrix*. Warner Bros. Pictures, 2001. Film.
+
 McGrath, Mike. *Linux in Easy Steps.* 4th ed. Southam, Warwickshire, UK:
 In Easy Steps/Computer Step, 2008. Print.
 
 McManus, Sean. *Scratch Programming in Easy Steps*. Leamington Spa,
 Warwickshire, U. K.: In Easy Steps, 2013. Print.
+
+Milano, Alyssa, and Jackson Lanzing. *Hacktivist*. Print.
 
 Minsky, Marvin Lee. *The Society of Mind*. New York: Simon and Schuster,
 1986. Print.
@@ -167,7 +185,7 @@ Axzo, 2011. Print.
 
 Rao, Umesh Hodeghatta, and Umesha Nyak. *The InfoSec Handbook: an Introduction to Information Security*. New York: Friends of ED/ApressOpen, 2014. Print.
 
-Raymond, Eric S. How To Become A Hacker. Web. 24 Jan. 2015. <http://www.catb.org/esr/faqs/hacker-howto.html>.
+Raymond, Eric S. *How To Become A Hacker*. Web. 24 Jan. 2015. <http://www.catb.org/esr/faqs/hacker-howto.html>.
 
 Raymond, Eric S. (ed). *The Jargon File*. Web. 25 Jan. 2015. <http://www.catb.org/jargon/html/>
 
@@ -175,6 +193,8 @@ Raymond, Eric S. *The Cathedral and the Bazaar Musings on Linux and Open Source 
 2001. Print.
 
 Regalado, Daniel. *Gray Hat Hacking: The Ethical Hacker's Handbook*. 4th ed. S.l.: McGraw-Hill, 2014. Print.
+
+*Revolution OS*. Wonderview Productions, 2003. Film. 26 Jan. 2015. <http://youtu.be/jw8K460vx1c>
 
 Rubin, Avi. "All Your Devices Can Be Hacked." Ted.com. Ted Talks. Web. 26 Jan. 2015. <http://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked>.
 
@@ -217,7 +237,11 @@ Street, Jayson E. *Dissecting the Hack: the Forb1dd3n Network*. Amsterdam: Syngr
 
 Szulborski, Dave. *This is not a game: A guide to alternate reality gaming*. Incunabula, 2005.
 
+*TPB AFK - The Pirate Bay Away from Keyboard*. 2013. Film. <http://youtu.be/eTOKXCEwo_8>
+
 "The Critical Engineering Manifesto." The Critical Engineering Manifesto. Web. 30 Dec. 2014. <http://criticalengineering.org/>.
+
+*The Internet's Own Boy* [Aaron Swartz]. Film [Documentary]. 25 Jan. 2015. <http://youtu.be/9vz06QO3UkQ>
 
 "The Scrum Guide." Scrum Guide. Web. 30 Dec. 2014. <http://www.scrumguides.org/scrum-guide.html>.
 
