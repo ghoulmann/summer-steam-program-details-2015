@@ -64,7 +64,7 @@ Print.
 
 Doctorow, Cory. *Eastern Standard Tribe*. New York: Tor, 2004. Print.
 
-Doctorow, Cory. *Makers*. 26 Jan. 2015. Web. <http://craphound.com/makers/Cory_Doctorow_-_Makers_Letter.pdf> 
+Doctorow, Cory. *Makers*. 26 Jan. 2015. Web. <http://craphound.com/makers/Cory_Doctorow\_-\_Makers_Letter.pdf> 
 
 Doctorow, Cory. "When Sysadmins Ruled the World." *Overclocked: Stories of the Future Present*. New York: Thunder's Mouth, 2007. Print.
 
