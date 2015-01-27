@@ -29,6 +29,5 @@ Apparatus
 * :ref:`search`
 * `Print PDF <./details.pdf>`_
 
-
-
+.. index:: PDF, Print Version, TOC, Table of Contents
 
