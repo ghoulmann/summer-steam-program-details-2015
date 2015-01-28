@@ -10,16 +10,16 @@ Summary
 
 Through hands-on computing, Chelsea School's STEAM [1]_ Camp provides day-long, hands-on instruction in science, technology, engineering, mathematics, & the arts for students in 4th through 12th grades.
 
-From July 17th through the 24th, 2015, our weekdays begin with a study of relationships between the culture, the arts, & innovative technologies.
+From July 13th through the 24th, 2015, our weekdays begin at 9:00 AM with a study of relationships between culture, the arts, & innovative technologies.
 
-Following that joint session, participants may *choose* between game design & development *or* information security & forensics.
+Following that joint session, participants may *choose* between **Game Design & Development** *or* **Information Security & Forensics**.
 
-In the afternoon, participants will come together for learning fundamental programming concepts by programming tools with an innovative, visual programming language from MIT.
+For the remainder of the day, participants will come together for learning fundamental programming concepts by programming tools with an innovative, visual programming language from MIT; our days will end at 4:30 PM.
 
 Dates
 ======
 
-Weekdays between July 17th and 24th, 2015 
+Weekdays between July 13th and 24th, 2015 
 
 Times
 ======
@@ -70,25 +70,25 @@ Features
 Metro Accessible
 ----------------
 
-placeholder
+Our campus is conveniently located across the street from the Prince George's Metro stop.
 
 State of the Art Facilities
 ---------------------------
 
-Our new, state-of-the-art facility features interactive whiteboards; gigabit ethernet; & over 100 student workstations equipped for equitable access to appropriate assistive technology.
+Our new, state-of-the-art facility features interactive whiteboards; gigabit ethernet; & over 100 student workstations equipped for equitable access to appropriate assistive and instructional technologies.
 
 Research-based Instruction
 ---------------------------
 
-Grounded in `Chelsea School's philosophy <http://chelseaschool.edu/about/>`_, participants will receive individualized instruction; reading across the curriculum; & post-secondary exploration & preparation from highly experienced instructors & technologists.
+Grounded in `Chelsea School's philosophy, mission, and values <http://chelseaschool.edu/about/>`_, and supported by highly experienced instructors and technologists, participants will receive *individualized* instruction; they will practice reading across the curriculum; and  will take part in post-secondary exploration & preparation.
 
 Curriculum Overview
-===================
+=====================
 
 Programming Concepts
 ------------------------
 
-This game-based introduction to the logic underlying software engineering focuses on coding fundamentals using visual & text-based interpreted languages & their syntaxes & prepares participants for either our game design or cybersecurity & digital forensics sessions.
+This game-based introduction to the logic underlying software engineering focuses on coding fundamentals using visual & text-based interpreted languages & their syntaxes; in addition, this session prepares participants for either our **Game Design and Development** or **Information Security & Digital Forensics** sessions.
 
 Game Design & Development
 -------------------------
@@ -103,7 +103,7 @@ Attendees will learn & apply basic concepts of programming, computer forensics, 
 Arts & Technology
 ---------------------------
 
-Participants will explore the role of arts & creativity in technology — including the ways in which literature, visual arts, & music influence — & are influenced by — science & technology. Participants will engage in hands-on projects including writing workshops, crafts & more.
+Participants will explore the role of arts & creativity in technology, including the ways in which literature, visual arts, & music influence — and are influenced by — science & technology. Participants will engage in hands-on projects including creative writing workshops, crafts & more.
 
 Daily Schedule
 ==============
@@ -115,13 +115,13 @@ Weekdays
 * Independent Projects
 * Lunch
 * Programming Fundamentals
-* Breakout Session: Game Design **or** Infosec and Forensics
+* Breakout Session: **Game Design** *or* **Infosec and Forensics**
 
 
-Notes
-======
+
 
 .. [1] Science, Technology, Engineering, Arts, and Math
 
     In the context of this program, STEM and STEAM are used interchangeably. We feel strongly that STEM education, as it is traditionally defined, must integrate critical reading, interpretation, and critique of the arts. We note, however, that Maryland State Department of Education gives this `some consideration <faq.html#what-is-stem-education-what-then-is-steam-education>`_. STEM education programs, however, do not include humanities or the arts (`livescience.com <http://www.livescience.com/43296-what-is-stem-education.html>`_ offers a fairly representative definition).
-.. index:: STEAM Education, STEM Education, programs, sessions, courses, summary, Stem Camp goals, schedule, daily schedule
+    
+.. index:: STEAM Education, STEM Education, programs, sessions, courses, summary, goals, schedule, routine

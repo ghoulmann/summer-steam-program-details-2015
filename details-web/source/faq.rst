@@ -19,13 +19,10 @@ However, we feel strongly that
 
 Therefore, we have worked toward adopting the acronym *STEAM* and the phrases *STEAM Education* and *STEAM Camp*.
 
-
-
-
-
-
 What is the location of the summer camp?
 ========================================
+
+Chelsea School in Hyattsville, Maryland
 
 What are the camp hours?
 ========================

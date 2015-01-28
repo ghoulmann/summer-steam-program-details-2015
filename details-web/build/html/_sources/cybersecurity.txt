@@ -27,10 +27,10 @@ To be articulated
 Hours
 ===========
 
-To be determined
+To be defined
 
-Topics [2]_
-============
+Prospective Scope and Sequence [2]_
+=====================================
 
 Cyberthreats and Motivations
 ----------------------------
@@ -244,8 +244,6 @@ Representative Vocabulary
 * IP Address
 * node
 
-Notes
-=====
 
 .. [1] In the context of this course, cybersecurity, infosec, security, network security, and information security are used interchangeably. Note too that the scope of study is limited to PC-based Microsoft and Linux-linux based systems. We do not attempt to cram mobile forensics or Macintosh server security into the program.
 
