@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'indepth'
 
 # General information about the project.
-project = u'STEAM Camp 2015 @ Chelsea School'
+project = u'STEAM Summer Program 2015 @ Chelsea School'
 copyright = u'2015, Rik Goldman, Davey Vest, Sabre Goldman (Chelsea School)'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -121,8 +121,10 @@ html_theme_options = {
     'navbar_site_name': "Contents",
     'navbar_pagenav': False,
     'navbar_links': [
-        ("Brief", "http://teamchelsea.net/stemcamp", True),
-        ("Chelsea School", "http://chelseaschool.edu", True),
+        ("Brief", "http://stem.chelseaschool.edu", True),
+        ("Index", "genindex.html", True),
+        ("Chelsea School", "http://chelseaschool.edu", True)
+        #("Download PDF", "details.pdf", True)
     ],
 
 }
@@ -132,7 +134,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "STEAM Experience 2015"
+html_title = "STEAM Summer Technology Program 2015"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title = "STEAM 2015"
