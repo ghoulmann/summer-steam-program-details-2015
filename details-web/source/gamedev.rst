@@ -212,3 +212,13 @@ Resources Referenced
 * http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Mesh_Modeling
 
 .. index:: Android, Google, Microsoft Windows, Blender, Unity Game Engine, Notepad++, Eclipse, GIMP, SDK, C#, JavaScript, Games, Loops, Narrative, Mesh, collaboration, game history, game development, interactive narrative
+
+.. raw:: html
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>

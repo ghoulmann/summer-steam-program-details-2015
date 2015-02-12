@@ -279,3 +279,13 @@ Sousa, David A., and Thomas Pilecki. *From STEM to STEAM: Using Brain-compatible
 Taber, Kieth S. *Constructivism as Educational Theory: Contingency in Learning and Optimally Guided Instruction.* New York: Nova Publishers. 26 Jan. 2015. Web. <https://camtools.cam.ac.uk/access/content/group/cbe67867-b999-4f62-8eb7-58696f3cedf7/Educational%20Theory/Constructivism%20as%20Educational%20Theory.pdf>
 
 .. index:: recommended reading, recommended viewing, bibliography, citeography, research, sources, fiction, nonfiction, films, MLA, Works Cited
+
+.. raw:: html
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>

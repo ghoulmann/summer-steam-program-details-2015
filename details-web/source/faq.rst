@@ -111,3 +111,14 @@ There is a grade level restriction: We welcome participants going in to grades 4
 	The second goal for STEM education in high school is on the advanced preparation of students for post-secondary study and careers in science, technology, engineering, or mathematics. High school provides a unique opportunity for students to explore different career paths and college majors through advanced coursework, career academies, magnet programs, STEM academies, specialized STEM programs, internships, and dual enrollment opportunities. Specific programs to address the needs for advanced preparation of students shall be determine by individual schools systems. (5) 
 
 .. index:: STEM education, STEAM education, MSDE, location, lunch, break, itinerary, homework, independent practice, prerequisites, LMS, learning management system, hybrid learning, Moodle, getting a headstart, recommended resources
+
+
+.. raw:: html
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>

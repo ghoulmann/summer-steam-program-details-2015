@@ -1,5 +1,5 @@
 ===========================
-PARTICIPANT CODE OF CONDUCT
+Participant Code of Conduct
 ===========================
 
 Participant Behavioral Expectations
@@ -93,7 +93,7 @@ Regulations
 ------------
 
 1. Disruptive Speech and Activities – Certain types of speech and behavior are considered so disruptive that they may be prohibited outright. Ed. Art, Section 26-101. The willful disturbance of program activities or other actions that prevent the orderly
-conduct of educational functions are forbidden. Similarly, persons may not threaten with bodily harm nor otherwise molest individuals in the immediate vicinity of the Chelsea Program, section 26-101(b). The free speech right that participants have in
+conduct of educational functions are forbidden. Similarly, persons may not threaten with bodily harm nor otherwise molest individuals in the immediate vicinity of the Chelsea Program, Section 26-101(b). The free speech right that participants have in
 the program environment is governed by a rule of reason applied to specific facts.
 
 2. Distribution of Literature – Written communication by participants in program-sponsored publications is subject to the reasonable restrictions of program officials so long as their actions are reasonably related to legitimate pedagogical
@@ -367,3 +367,12 @@ Participants who fail to complete the program due to a
 disciplinary expulsion will not be subject to a refund of the
 program cost.
 
+.. raw:: html
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>

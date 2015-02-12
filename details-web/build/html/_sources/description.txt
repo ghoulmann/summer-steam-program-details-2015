@@ -125,3 +125,13 @@ Weekdays
     In the context of this program, STEM and STEAM are used interchangeably. We feel strongly that STEM education, as it is traditionally defined, must integrate critical reading, interpretation, and critique of the arts. We note, however, that Maryland State Department of Education gives this `some consideration <faq.html#what-is-stem-education-what-then-is-steam-education>`_. STEM education programs, however, do not include humanities or the arts (`livescience.com <http://www.livescience.com/43296-what-is-stem-education.html>`_ offers a fairly representative definition).
     
 .. index:: STEAM Education, STEM Education, programs, sessions, courses, summary, goals, schedule, routine
+
+.. raw:: html
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>

@@ -250,3 +250,13 @@ Representative Vocabulary
 .. [2] A realistic plan is in place to address these topics to an appropriate degree, with time left for red-teaming and hands-on learning. As we get a snapshot of enrollment, the emphases with shift, and the delivery of content will be adjusted to meet the individual needs of participants.
 
 .. index:: infosec, certification, post-secondary pathways, careers, certified ethical hacker, Security+, CompTIA, GNU/Linux, Linux, Ubuntu, Debian, penetration testing, capture the flag, red teaming, LPI, Network+, information security, digital forensics, forensics, git, source code management, collaboration, Agile, scrum, ScrumMaster, Jira, Atlassian, Github, Kali Linux, Backbox Linux, Microsoft, Windows 7, malware, Github
+
+.. raw:: html
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+    </script>
