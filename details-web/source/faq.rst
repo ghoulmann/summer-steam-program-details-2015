@@ -27,22 +27,18 @@ However, we feel strongly that
 1. Computing is a core literacy
 2. The ability to read, interpret, and critique cultural productions is a necessary condition of digital literacy and computing.
 
-<<<<<<< HEAD
-Therefore, we have worked toward adopting the acronym *STEAM* and the phrases *STEAM Education* and *STEAM Camp*.
-=======
+
 Therefore, we have worked toward adopting the acronym *STEAM* and the phrases *STEAM Education* and *STEAM Summer Program*.
 
 
->>>>>>> 8d9135140ed7b5f3b7d67546bf9a0546d28e7284
+
 
 What is the location of the summer camp?
 ========================================
 
-<<<<<<< HEAD
-Chelsea School in Hyattsville, Maryland
-=======
+
 The campus of Chelsea School in Hyattsville, MD: see `http://chelseaschool.edu/about/directions <http://chelseaschool.edu/about/directions>`_ for elaboration.
->>>>>>> 8d9135140ed7b5f3b7d67546bf9a0546d28e7284
+
 
 What are the camp hours?
 ========================
@@ -115,10 +111,9 @@ There is a grade level restriction: We welcome participants going in to grades 4
 
 .. raw:: html
 
-    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-    <script>
-      var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+  <script>
+      var _gaq=[['_setAccount','UA-56096260-1'],['_trackPageview']];
       (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
       g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
       s.parentNode.insertBefore(g,s)}(document,'script'));
-    </script>
+  </script>
