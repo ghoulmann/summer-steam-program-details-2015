@@ -27,39 +27,43 @@ However, we feel strongly that
 1. Computing is a core literacy
 2. The ability to read, interpret, and critique cultural productions is a necessary condition of digital literacy and computing.
 
+
 Therefore, we have worked toward adopting the acronym *STEAM* and the phrases *STEAM Education* and *STEAM Summer Program*.
 
 
 
-What is the location of the summer camp?
-========================================
+
+What is the location of the summer program?
+=============================================
+
 
 The campus of Chelsea School in Hyattsville, MD: see `http://chelseaschool.edu/about/directions <http://chelseaschool.edu/about/directions>`_ for elaboration.
 
-What are the camp hours?
-========================
+
+What are the program hours?
+=============================
 
 Weekdays from 9:00 AM to 4:30 PM from July 13th through July 24th.
 
 What is the break and lunch plan?
-=================================
+====================================
 
 Brown bag lunches are recommended for participants. Lunch is scheduled between morning and afternoon sessions.
 
 15 minute breaks are provided between sessions.
 
 How can a parent best support a participant?
-============================================
+==============================================
 
 Engage in substantive discussion and enquiry about each day's content; provide an opportunity and support (perhaps working as a pair) for independent enquiry and practice after each day's programs conclude.
 
 What resources do participants need?
-====================================
+======================================
 
 Access to a computer and internet are recommended, but not necessary.
 
-What resources are provided by the camp staff?
-===============================================
+What resources are provided by the program staff?
+===================================================
 
 All content materials, including e-texts, opportunities to screen films and videos; materials for arts and crafting; Windows 7 and GNU/Linux workstations. For the protection of the population, internet content filters are in place; when legitimate content is incidentally or mistakenly filtered, we will act quickly to make it available.
 
@@ -76,8 +80,8 @@ Is homework assigned?
 Individualized and independent practice is recommended for each participant; opportunities for daily practice, with support, will provided during the morning 
 "Technology and the Arts" course.
 
-How can a participant prepare before camp starts?
-=================================================
+How can a participant prepare before program starts?
+======================================================
 
 Our first recommendation is to look into the "Recommended Reading and Viewing" and looking into texts that provoke interest. Our second recommendation is to keep a reading log of texts, videos, and webpages that are read or scanned in anticipation of this summer program.
 
@@ -102,4 +106,14 @@ There is a grade level restriction: We welcome participants going in to grades 4
 
 	The second goal for STEM education in high school is on the advanced preparation of students for post-secondary study and careers in science, technology, engineering, or mathematics. High school provides a unique opportunity for students to explore different career paths and college majors through advanced coursework, career academies, magnet programs, STEM academies, specialized STEM programs, internships, and dual enrollment opportunities. Specific programs to address the needs for advanced preparation of students shall be determine by individual schools systems. (5) 
 
-.. index:: STEM education, STEAM education, MSDE, location, lunch, break, itinerary, homework, independent practice, prerequisites, LMS, learning management system, hybrid learning, Moodle
+.. index:: STEM education, STEAM education, MSDE, location, lunch, break, itinerary, homework, independent practice, prerequisites, LMS, learning management system, hybrid learning, Moodle, getting a headstart, recommended resources
+
+
+.. raw:: html
+
+  <script>
+      var _gaq=[['_setAccount','UA-56096260-1'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>

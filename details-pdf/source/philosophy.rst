@@ -32,8 +32,8 @@ Values
 
 * Hold each other to an expectation of personal responsibility, integrity and excellence
 
-STEAM Camp
-===============
+STEAM Summer Program
+=====================
 
 Values
 --------
@@ -68,3 +68,12 @@ Critical Considerations
 * Participants benefit from indivualized instruction well-suited to their learning styles and preferences.
 
 .. [1] Connected learning is an approach to addressing inequity in education in ways geared to a networked society. It seeks to leverage the potential of digital media to expand access to learning that is socially embedded, interest-driven, and oriented toward educational, economic, or political opportunity. Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement. This model is based on evidence that the most resilient, adaptive, and effective learning involves individual interest as well as social support to overcome adversity and provide recognition (Ito).  The approach knits together three crucial contexts for learning: interest-powered; peer-supported; academically oriented. In addition, it embraces these key design principles: production-centered; open networks; shared purpose.
+
+.. raw:: html
+
+  <script>
+      var _gaq=[['_setAccount','UA-56096260-1'],['_trackPageview']];
+      (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+      s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>

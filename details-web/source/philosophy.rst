@@ -32,8 +32,8 @@ Values
 
 * Hold each other to an expectation of personal responsibility, integrity and excellence
 
-STEAM Camp
-===============
+STEAM Summer Program
+=====================
 
 Values
 --------

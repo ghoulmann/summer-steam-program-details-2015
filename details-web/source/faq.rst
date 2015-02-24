@@ -33,37 +33,37 @@ Therefore, we have worked toward adopting the acronym *STEAM* and the phrases *S
 
 
 
-What is the location of the summer camp?
-========================================
+What is the location of the summer program?
+=============================================
 
 
 The campus of Chelsea School in Hyattsville, MD: see `http://chelseaschool.edu/about/directions <http://chelseaschool.edu/about/directions>`_ for elaboration.
 
 
-What are the camp hours?
-========================
+What are the program hours?
+=============================
 
 Weekdays from 9:00 AM to 4:30 PM from July 13th through July 24th.
 
 What is the break and lunch plan?
-=================================
+====================================
 
 Brown bag lunches are recommended for participants. Lunch is scheduled between morning and afternoon sessions.
 
 15 minute breaks are provided between sessions.
 
 How can a parent best support a participant?
-============================================
+==============================================
 
 Engage in substantive discussion and enquiry about each day's content; provide an opportunity and support (perhaps working as a pair) for independent enquiry and practice after each day's programs conclude.
 
 What resources do participants need?
-====================================
+======================================
 
 Access to a computer and internet are recommended, but not necessary.
 
-What resources are provided by the camp staff?
-===============================================
+What resources are provided by the program staff?
+===================================================
 
 All content materials, including e-texts, opportunities to screen films and videos; materials for arts and crafting; Windows 7 and GNU/Linux workstations. For the protection of the population, internet content filters are in place; when legitimate content is incidentally or mistakenly filtered, we will act quickly to make it available.
 
@@ -80,8 +80,8 @@ Is homework assigned?
 Individualized and independent practice is recommended for each participant; opportunities for daily practice, with support, will provided during the morning 
 "Technology and the Arts" course.
 
-How can a participant prepare before camp starts?
-=================================================
+How can a participant prepare before program starts?
+======================================================
 
 Our first recommendation is to look into the "Recommended Reading and Viewing" and looking into texts that provoke interest. Our second recommendation is to keep a reading log of texts, videos, and webpages that are read or scanned in anticipation of this summer program.
 
