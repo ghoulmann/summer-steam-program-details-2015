@@ -122,9 +122,9 @@ html_theme_options = {
     'navbar_pagenav': False,
     'navbar_links': [
         ("Brief", "http://stem.chelseaschool.edu", True),
-        ("Index", "genindex.html", True),
-        ("Chelsea School", "http://chelseaschool.edu", True)
-        #("Download PDF", "details.pdf", True)
+        ("Registration", "http://chelseaschool.edu/stem/register", True),
+        ("Chelsea School", "http://chelseaschool.edu", True),
+        ("Download PDF", "http://stem.chelseaschool.edu/details/details.pdf", True)
     ],
 
 }
